@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Python Dashboard</title>
+  <!-- Favicon (Python icon) -->
+  <link rel="icon" type="image/png" href="mrunrealthings.png" />
+  <link rel="shortcut icon" href="python.ico" />
+  <style>
+    :root{
+      --purple:#b700ff;
+      --black:#000;
+      --card-bg:#fff;
+      --muted:#e0e0e0;
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+      color: #222;
+    }
+
+    header {
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      margin-bottom:18px;
+    }
+
+    h1 {
+      margin:0;
+      font-size:20px;
+      color:#333;
+    }
+
+    #finished-view-btn {
+      padding:8px 14px;
+      border-radius:8px;
+      border:none;
+      background:#0b7a16;
+      color:white;
+      cursor:pointer;
+      font-weight:600;
+    }
+
+    /* Navigation bar */
+    .nav {
+      text-align: center;
+      margin-bottom: 18px;
+    }
+
+    .nav button {
+      background-color: var(--black);
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      margin: 5px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background-color 0.15s;
+    }
+
+    .nav button:hover { filter:brightness(.9); }
+    .nav button.active { background-color: var(--purple) !important; }
+
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      padding: 18px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      transition: transform 0.18s, box-shadow 0.18s;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+      position:relative;
+      min-height:140px;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 10px 26px rgba(0,0,0,0.12);
+    }
+
+    .category {
+      display: inline-block;
+      background: #000000;
+      color: white;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 12px;
+      margin-bottom: 4px;
+      width:fit-content;
+      background: black;
+    }
+
+    .title {
+      font-size: 16px;
+      font-weight: 700;
+      margin: 0;
+      color: #222;
+      line-height:1.2;
+    }
+
+    .description {
+      font-size: 13px;
+      color: #555;
+      margin:0;
+      flex:1;
+    }
+
+    .open-row {
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+
+    .open-btn {
+      display: inline-block;
+      padding: 8px 12px;
+      background: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight:600;
+      transition: background .15s;
+    }
+    .open-btn:hover { background:#0062d6; }
+
+    /* Status buttons */
+    .status-buttons {
+      margin-top: 6px;
+      display: flex;
+      gap: 8px;
+      align-items:center;
+    }
+
+    .status-buttons button {
+      position: relative;
+      border: none;
+      padding: 8px 14px 8px 34px; /* left space for ball */
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 13px;
+      background: var(--muted);
+      color: #333;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-weight:700;
+      overflow: visible;
+    }
+
+    /* Circle ball inside button */
+    .status-buttons button::before {
+      content: "";
+      position: absolute;
+      left: 10px;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #aaa;
+      animation: spin 1.2s linear infinite;
+      transform-origin: center;
+      top: calc(50% - 7px);
+    }
+
+    /* Active styles & colors */
+    .status-buttons button.active[data-status="N"] {
+      background: #ffeded; color: #b80000;
+    }
+    .status-buttons button.active[data-status="N"]::before { background: red; animation: spin 1.2s linear infinite; }
+
+    .status-buttons button.active[data-status="P"] {
+      background: #eaf0ff; color: #0645b3;
+    }
+    .status-buttons button.active[data-status="P"]::before { background: blue; animation: spin 1.2s linear infinite; }
+
+    .status-buttons button.active[data-status="D"] {
+      background: #eaffea; color: #0b7a16;
+    }
+    .status-buttons button.active[data-status="D"]::before { background: green; animation: none; }
+
+    @keyframes spin {
+      from { transform: rotate(0deg) translateX(3px) rotate(0deg); }
+      to   { transform: rotate(360deg) translateX(3px) rotate(-360deg); }
+    }
+
+    .small-muted { font-size:12px; color:#666; }
+
+    .empty {
+      text-align:center;
+      padding:30px;
+      color:#666;
+      grid-column:1/-1;
+      background:#fff;
+      border-radius:10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="header-title">Python Tutorials</h1>
+    <div>
+      <button id="finished-view-btn">Python Tutorials</button>
+    </div>
+  </header>
+
+  <div class="nav" id="category-nav"></div>
+  <main class="container" id="tutorial-container"></main>
+
+  <script>
+    // state
+    let tutorials = [];
+    let currentCategory = "All";
+    let finishedView = false;
+
+    // LocalStorage key
+    const STORAGE_KEY = 'tuto_statuses';
+
+    // Helper: statuses object (link -> status)
+    function getStatuses(){
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        return raw ? JSON.parse(raw) : {};
+      } catch(e) { return {}; }
+    }
+    function saveStatuses(obj){
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(obj));
+    }
+    function getStatusFor(link){
+      const s = getStatuses();
+      return s[link] || "N";
+    }
+    function setStatusFor(link, status){
+      const s = getStatuses();
+      s[link] = status;
+      saveStatuses(s);
+    }
+
+    // utility: escape for HTML (simple)
+    function escapeHtml(str){
+      if(!str) return '';
+      return String(str)
+        .replaceAll('&','&amp;')
+        .replaceAll('<','&lt;')
+        .replaceAll('>','&gt;')
+        .replaceAll('"','&quot;')
+        .replaceAll("'","&#39;");
+    }
+    function escapeAttr(str){
+      if(!str) return '#';
+      return String(str).replaceAll('"','%22');
+    }
+
+    // load tutorials from JSON file
+    async function loadTutorials(){
+      try {
+        const res = await fetch('tutorials_python.json');
+        const obj = await res.json();
+        tutorials = Array.isArray(obj) ? obj : Object.values(obj);
+        buildCategoryNav();
+        render();
+      } catch(err){
+        console.error('Failed to load tutorials:', err);
+        document.getElementById('tutorial-container').innerHTML = '<div class="empty">Failed to load tutorials file.</div>';
+      }
+    }
+
+    // build category nav (includes "All")
+    function buildCategoryNav(){
+      const nav = document.getElementById('category-nav');
+      nav.innerHTML = '';
+      const cats = [...new Set(tutorials.map(t => t.categoryS).filter(Boolean))];
+      cats.forEach(cat => {
+        const btn = document.createElement('button');
+        btn.textContent = cat;
+        btn.dataset.category = cat;
+        if (cat === currentCategory) btn.classList.add('active');
+        btn.onclick = () => {
+          currentCategory = cat;
+          finishedView = false; // show main when clicking category
+          updateFinishedBtn();
+          document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          // update header to show "Finished Category : X" as requested
+          document.getElementById('header-title').textContent = `Category : ${cat}`;
+          render();
+        };
+        nav.appendChild(btn);
+      });
+    }
+
+    // render cards depending on finishedView and category
+    function render(){
+      const container = document.getElementById('tutorial-container');
+      container.innerHTML = '';
+
+      const statuses = getStatuses();
+
+      // compute list to display
+      let list = tutorials.filter(t => {
+        const status = statuses[t.link] || 'N';
+        if (finishedView) {
+          if (status !== 'D') return false;
+        } else {
+          if (status === 'D') return false;
+        }
+        if (currentCategory === 'All') return true;
+        return t.categoryS === currentCategory;
+      });
+
+      if (list.length === 0){
+        const msg = finishedView ? "No finished tutorials yet." : "No tutorials found for this filter.";
+        container.innerHTML = `<div class="empty">${msg}</div>`;
+        return;
+      }
+
+      list.forEach(t => {
+        const status = statuses[t.link] || 'N';
+
+        const card = document.createElement('article');
+        card.className = 'card';
+        card.dataset.category = t.categoryS || '';
+        card.dataset.link = t.link || '';
+
+        card.innerHTML = `
+          <div>
+            <div class="category">${escapeHtml(t.categoryS || '')}</div>
+            <h3 class="title">${escapeHtml(t.titleS || '')}</h3>
+            <p class="description">${escapeHtml(t.descS || '')}</p>
+          </div>
+          <div class="open-row">
+            <a class="open-btn" href="${escapeAttr(t.link || '#')}" target="_blank" rel="noopener noreferrer">Open Tutorial</a>
+            <div style="flex:1"></div>
+            <div class="small-muted">Status:</div>
+            <div class="status-buttons" style="margin-left:8px">
+              <button data-status="N" ${status === 'N' ? 'class="active"' : ''}>N</button>
+              <button data-status="P" ${status === 'P' ? 'class="active"' : ''}>P</button>
+              <button data-status="D" ${status === 'D' ? 'class="active"' : ''}>D</button>
+            </div>
+          </div>
+        `;
+
+        // add event listeners for the three buttons
+        const btns = card.querySelectorAll('.status-buttons button');
+        btns.forEach(b => {
+          b.addEventListener('click', (ev) => {
+            const newStatus = b.dataset.status;
+            setStatusFor(t.link, newStatus);
+            // update header when in finished view
+            if (finishedView) {
+              document.getElementById('header-title').textContent =
+                currentCategory === 'All' ? 'Finished Tutorials' : `Category : ${currentCategory}`;
+            } else {
+              // when clicking a category button earlier we force header to show Finished Category : X
+              // if currentCategory is All keep header as "Finished Tutorials" (per default)
+              document.getElementById('header-title').textContent =
+                currentCategory === 'All' ? 'Finished Tutorials' : `Category : ${currentCategory}`;
+            }
+            render();
+          });
+        });
+
+        container.appendChild(card);
+      });
+    }
+
+    // finished view toggle
+    const finishedBtn = document.getElementById('finished-view-btn');
+    finishedBtn.addEventListener('click', () => {
+      finishedView = !finishedView;
+      // when entering finished view keep the category selected if any
+      // remove nav active if finishedView and category is All? we just keep nav as-is but not change behavior
+      if (finishedView) {
+        // set header
+        document.getElementById('header-title').textContent =
+          currentCategory === 'All' ? 'Finished Tutorials' : `Category : ${currentCategory}`;
+        // clear nav active states so user sees finished mode emphasis
+        document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
+      } else {
+        // leaving finished view -> reset header to default or category label
+        document.getElementById('header-title').textContent =
+          currentCategory === 'All' ? 'Finished Tutorials' : `Category : ${currentCategory}`;
+        // re-render nav to restore the active button if any
+        buildCategoryNav();
+      }
+      updateFinishedBtn();
+      render();
+    });
+
+    function updateFinishedBtn(){
+      finishedBtn.textContent = finishedView ? 'Back to All Tutorials' : 'Finished Tutorials';
+    }
+
+    // initial load
+    loadTutorials();
+  </script>
+</body>
+</html>

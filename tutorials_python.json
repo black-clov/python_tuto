@@ -1,0 +1,3278 @@
+{
+  "0":{
+    "titleS": "Pyspark Tutorial: Getting Started with Pyspark",
+    "categoryS": "Data Visualization",
+    "descS": "Discover what Pyspark is and how it can be used while giving examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-tutorial-getting-started-with-pyspark"
+  },
+  "0.1": {
+    "titleS": "Python UV: The Ultimate Guide to the Fastest Python Package Manager",
+    "categoryS": "Python",
+    "descS": "Learn how to use UV, the fastest Python package ma…d seamless migration from pip, Poetry, and Conda.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-uv"
+  },
+  "1": {
+    "titleS": "Python pandas Tutorial: The Ultimate Guide for Beginners",
+    "categoryS": "Data Science",
+    "descS": "Are you ready to begin your pandas journey? Here’s a step-by-step guide on how to get started.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas"
+  },
+  "2": {
+    "titleS": "Python Excel: A Guide With Examples",
+    "categoryS": "Data Science",
+    "descS": "Learn how to read and import Excel files in Python…eadsheets, and find the best packages to do this.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-excel-tutorial"
+  },
+  "3": {
+    "titleS": "Transformer Model Tutorial in PyTorch: From Theory to Code",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn how to build a Transformer model using PyTorch, a powerful tool in modern machine learning.",
+    "link": "https://app.datacamp.com/learn/tutorials/building-a-transformer-with-py-torch"
+  },
+  "4": {
+    "titleS": "Streamlit Python: Tutorial",
+    "categoryS": "Data Science",
+    "descS": "This Python Streamlit tutorial is designed for dat…apps without extensive web development knowledge.",
+    "link": "https://app.datacamp.com/learn/tutorials/streamlit"
+  },
+  "5": {
+    "titleS": "Decision Tree Classification in Python Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, learn Decision Tree Classificati…ree Classifier using Python Scikit-learn package.",
+    "link": "https://app.datacamp.com/learn/tutorials/decision-tree-classification-python"
+  },
+  "6": {
+    "titleS": "ARIMA for Time Series Forecasting: A Complete Guide",
+    "categoryS": "Data Science",
+    "descS": "Learn the key components of the ARIMA model, how t…, and explore its applications across industries.",
+    "link": "https://app.datacamp.com/learn/tutorials/arima"
+  },
+  "7": {
+    "titleS": "Random Forest Classification with Scikit-Learn",
+    "categoryS": "Data Analysis",
+    "descS": "This article covers how and when to use random for…use the confusion matrix and feature importances.",
+    "link": "https://app.datacamp.com/learn/tutorials/random-forests-classifier-python"
+  },
+  "8": {
+    "titleS": "pandas read_csv() Tutorial: Importing Data",
+    "categoryS": "Python",
+    "descS": "Importing data is the first step in any data scien…prefer the pandas read_csv() function to do this.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-read-csv"
+  },
+  "9": {
+    "titleS": "Understanding Logistic Regression in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Learn about logistic regression, its basic propert…l-world application in Python using scikit-learn.",
+    "link": "https://app.datacamp.com/learn/tutorials/understanding-logistic-regression-python"
+  },
+  "10": {
+    "titleS": "if…elif…else in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how you can create if…elif…else statements in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/elif-statements-python"
+  },
+  "11": {
+    "titleS": "Fibonacci Sequence in Python: Learn and Explore Coding Techniques",
+    "categoryS": "Data Analysis",
+    "descS": "Discover how the Fibonacci sequence works. Explore…hematical properties and real-world applications.",
+    "link": "https://app.datacamp.com/learn/tutorials/fibonacci-sequence-python"
+  },
+  "12": {
+    "titleS": "Setting Up VSCode For Python: A Complete Guide",
+    "categoryS": "Python",
+    "descS": "Experience a simple, fun, and productive way of Py…ng about VSCode and its extensionsn and features.",
+    "link": "https://app.datacamp.com/learn/tutorials/setting-up-vscode-python"
+  },
+  "13": {
+    "titleS": "Stock Market Predictions with LSTM in Python",
+    "categoryS": "Deep Learning",
+    "descS": "Discover Long Short-Term Memory (LSTM) networks in…ou can use them to make stock market predictions!",
+    "link": "https://app.datacamp.com/learn/tutorials/lstm-python-stock-market"
+  },
+  "14": {
+    "titleS": "How to Round to 2 Decimal Places in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to round a number to two decimal places …nd(), format(), and string formatting techniques.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-round-to-two-decimal-places"
+  },
+  "15": {
+    "titleS": "Two Methods to Convert A Python Script To An Exe File",
+    "categoryS": "Data Science",
+    "descS": "Learn what an executable file is and why it may be…hon script to an executable using auto-py-to-exe.",
+    "link": "https://app.datacamp.com/learn/tutorials/two-simple-methods-to-convert-a-python-file-to-an-exe-file"
+  },
+  "16": {
+    "titleS": "Python Backend Development: A Complete Guide for Beginners",
+    "categoryS": "Python",
+    "descS": "This complete guide teaches you the fundamentals o…est practices to start building web applications.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-backend-development"
+  },
+  "17": {
+    "titleS": "Fuzzy String Matching in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you will learn how to approximat… similar they are by going over various examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/fuzzy-string-python"
+  },
+  "18": {
+    "titleS": "Python Switch Case Statement: A Beginner's Guide",
+    "categoryS": "Python",
+    "descS": "Explore Python's match-case: a guide on its syntax, applications in data science, ML, and a comparative analysis with traditional switch-case.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-switch-case"
+  },
+  "19": {
+    "titleS": "FastAPI Tutorial: An Introduction to Using FastAPI",
+    "categoryS": "Python",
+    "descS": "Explore the FastAPI framework and discover how you can use it to create APIs in Python",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-fastapi-tutorial"
+  },
+  "20": {
+    "titleS": "Pandas Tutorial: DataFrames in Python",
+    "categoryS": "Data Science",
+    "descS": "Explore data analysis with Python. Pandas DataFram…acing columns and indices to reshaping your data.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-tutorial-dataframe-python"
+  },
+  "21": {
+    "titleS": "An Introduction to Python Subprocess: Basics and Examples",
+    "categoryS": "Python",
+    "descS": "Explore our step-by-step guide to running external commands using Python's subprocess module, complete with examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-subprocess"
+  },
+  "22": {
+    "titleS": "How to Upgrade Python and Pip in Windows, MacOS, and Linux",
+    "categoryS": "Data Analysis",
+    "descS": "Read our step-by-step instructions for how to upgr… Keep your environment up-to-date and compatible.",
+    "link": "https://app.datacamp.com/learn/tutorials/pip-upgrade-python"
+  },
+  "23": {
+    "titleS": "A Comprehensive Introduction to Graph Neural Networks (GNNs)",
+    "categoryS": "Python",
+    "descS": "Learn everything about Graph Neural Networks, incl…how to build a Graph Neural Network with Pytorch.",
+    "link": "https://app.datacamp.com/learn/tutorials/comprehen…-introduction-graph-neural-networks-gnns-tutorial"
+  },
+  "24": {
+    "titleS": "How to Use Jupyter Notebooks: The Ultimate Guide",
+    "categoryS": "Data Science",
+    "descS": "This article covers what Notebooks are and why you…also covers tips, tricks, and keyboard shortcuts.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-jupyter-notebook"
+  },
+  "25": {
+    "titleS": "How to Comment Out a Block of Code in Python",
+    "categoryS": "Python",
+    "descS": "To comment out a block of code in Python, you can either add a # at the beginning of each line of the block or surround the entire block with triple quotes.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-block-comment"
+  },
+  "26": {
+    "titleS": "A Guide to the DBSCAN Clustering Algorithm",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how to implement DBSCAN, understand its key …s unique strengths in your data science projects.",
+    "link": "https://app.datacamp.com/learn/tutorials/dbscan-clustering-algorithm"
+  },
+  "27": {
+    "titleS": "Getting Started with Python HTTP Requests for REST APIs",
+    "categoryS": "Python",
+    "descS": "Learn how to use Python HTTP requests to interact … integration with a focus on the requests module.",
+    "link": "https://app.datacamp.com/learn/tutorials/making-http-requests-in-python"
+  },
+  "28": {
+    "titleS": "Iloc vs Loc in Pandas: A Guide With Examples",
+    "categoryS": "Data Science",
+    "descS": ".loc selects data using row and column names (labe…(positions). Learn how to use both with examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/loc-vs-iloc"
+  },
+  "29": {
+    "titleS": "Using XGBoost in Python Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "Discover the power of XGBoost, one of the most pop…tists, with this step-by-step tutorial in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/xgboost-in-python"
+  },
+  "30": {
+    "titleS": "Introduction to t-SNE",
+    "categoryS": "Data Visualization",
+    "descS": "Learn to visualize high-dimensional data in a low-…g a nonlinear dimensionality reduction technique.",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-t-sne"
+  },
+  "31": {
+    "titleS": "Python Functions: How to Call & Write Functions",
+    "categoryS": "Data Analysis",
+    "descS": "Discover how to write reusable and efficient Pytho…code better with main() and other best practices.",
+    "link": "https://app.datacamp.com/learn/tutorials/functions-python-tutorial"
+  },
+  "32": {
+    "titleS": "Python List index() Method Explained with Examples",
+    "categoryS": "Python",
+    "descS": "Learn how to use Python's index() function to find the position of elements in lists.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-list-index"
+  },
+  "33": {
+    "titleS": "Installing Anaconda on Windows Tutorial",
+    "categoryS": "Python",
+    "descS": "This tutorial will demonstrate how you can install…a powerful package manager, on Microsoft Windows.",
+    "link": "https://app.datacamp.com/learn/tutorials/installing-anaconda-windows"
+  },
+  "34": {
+    "titleS": "SQLAlchemy Tutorial With Examples",
+    "categoryS": "Python",
+    "descS": "Learn to access and run SQL queries on all types of relational databases using Python objects.",
+    "link": "https://app.datacamp.com/learn/tutorials/sqlalchemy-tutorial-examples"
+  },
+  "35": {
+    "titleS": "Python Dictionary Append: How to Add Key-Value Pairs",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to append key-value pairs in a Python di…tions, and .setdefault() for conditional inserts.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dictionary-append"
+  },
+  "36": {
+    "titleS": "K-Nearest Neighbors (KNN) Classification with scikit-learn",
+    "categoryS": "Machine Learning",
+    "descS": "This article covers how and when to use k-nearest …lect the best value for k using cross-validation.",
+    "link": "https://app.datacamp.com/learn/tutorials/k-nearest-neighbor-classification-scikit-learn"
+  },
+  "37": {
+    "titleS": "Naive Bayes Classification Tutorial using Scikit-learn",
+    "categoryS": "Data Science",
+    "descS": "Learn how to build and evaluate a Naive Bayes Classifier using Python's Scikit-learn package.",
+    "link": "https://app.datacamp.com/learn/tutorials/naive-bayes-scikit-learn"
+  },
+  "38": {
+    "titleS": "Introduction to Plotting with Matplotlib in Python",
+    "categoryS": "Data Visualization",
+    "descS": "This tutorial demonstrates how to use Matplotlib, …e, bar, and scatter plots with stock market data.",
+    "link": "https://app.datacamp.com/learn/tutorials/matplotlib-tutorial-python"
+  },
+  "39": {
+    "titleS": "Python Docstrings Tutorial : Examples & Format for Pydoc, Numpy, Sphinx Doc Strings",
+    "categoryS": "Python",
+    "descS": "Learn about Python Docstrings. Find different exam… types of docstrings for Sphinx, Numpy and Pydoc.",
+    "link": "https://app.datacamp.com/learn/tutorials/docstrings-python"
+  },
+  "40": {
+    "titleS": "Face Detection with Python Using OpenCV",
+    "categoryS": "Python",
+    "descS": "Learn about object detection in Python using the O…ow to apply it to tasks such as facial detection.",
+    "link": "https://app.datacamp.com/learn/tutorials/face-detection-python-opencv"
+  },
+  "41": {
+    "titleS": "PyTorch Tutorial: Building a Simple Neural Network From Scratch",
+    "categoryS": "Data Science",
+    "descS": "Learn about the basics of PyTorch, while taking a …al networks work. Get started with PyTorch today.",
+    "link": "https://app.datacamp.com/learn/tutorials/pytorch-t…ial-building-a-simple-neural-network-from-scratch"
+  },
+  "42": {
+    "titleS": "A Complete Guide to Data Augmentation",
+    "categoryS": "Machine Learning",
+    "descS": "Learn about data augmentation techniques, applicat…, and tools with a TensorFlow and Keras tutorial.",
+    "link": "https://app.datacamp.com/learn/tutorials/complete-guide-data-augmentation"
+  },
+  "43": {
+    "titleS": "What is Manhattan Distance?",
+    "categoryS": "Data Science",
+    "descS": "Learn how to calculate and apply Manhattan Distanc…lore its use in machine learning and pathfinding.",
+    "link": "https://app.datacamp.com/learn/tutorials/manhattan-distance"
+  },
+  "44": {
+    "titleS": "Python Linked Lists: Tutorial With Examples",
+    "categoryS": "Python",
+    "descS": "Learn everything you need to know about linked lis… them, their types, and implementation in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-linked-lists"
+  },
+  "45": {
+    "titleS": "Python Machine Learning: Scikit-Learn Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "An easy-to-follow scikit-learn tutorial that will help you get started with Python machine learning.",
+    "link": "https://app.datacamp.com/learn/tutorials/machine-learning-python"
+  },
+  "46": {
+    "titleS": "How to Use Python Decorators (With Function and Class-Based Examples)",
+    "categoryS": "Data Analysis",
+    "descS": "Learn Python decorators with hands-on examples. Un…orators, and how to write reusable, elegant code.",
+    "link": "https://app.datacamp.com/learn/tutorials/decorators-python"
+  },
+  "47": {
+    "titleS": "Object-Oriented Programming in Python (OOP): Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Tackle the basics of Object-Oriented Programming (…ects, instance methods, attributes and much more!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-oop-tutorial"
+  },
+  "48": {
+    "titleS": "Python Turtle Graphics: A Fun Way to Learn the Basics",
+    "categoryS": "Data Visualization",
+    "descS": "Discover how to create simple to complex graphics …d creative designs while mastering Python basics.",
+    "link": "https://app.datacamp.com/learn/tutorials/turtle-graphics"
+  },
+  "49": {
+    "titleS": "Python XML Tutorial with ElementTree: Beginner's Guide",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how you can parse, explore, modify and popul…entTree package, for loops and XPath expressions.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-xml-elementtree"
+  },
+  "50": {
+    "titleS": "How to Remove an Item from a List in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Understand how to remove items from a list in Pyth…ike remove(), pop(), and del for list management.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-remove-item-from-list"
+  },
+  "51": {
+    "titleS": "Sklearn Linear Regression: A Complete Guide with Examples",
+    "categoryS": "Machine Learning",
+    "descS": "Learn about linear regression, its purpose, and ho…cikit-learn library. Includes practical examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/sklearn-linear-regression"
+  },
+  "52": {
+    "titleS": "Introduction to k-Means Clustering with scikit-learn in Python",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, learn how to apply k-Means Clustering with scikit-learn in Python",
+    "link": "https://app.datacamp.com/learn/tutorials/k-means-clustering-python"
+  },
+  "53": {
+    "titleS": "Tqdm Python: A Guide With Practical Examples",
+    "categoryS": "Python",
+    "descS": "tqdm is a Python library that provides a fast, ext…g it easy to visualize the progress of your code.",
+    "link": "https://app.datacamp.com/learn/tutorials/tqdm-python"
+  },
+  "54": {
+    "titleS": "Python Data Type Conversion: A Guide With Examples",
+    "categoryS": "Python",
+    "descS": "In this Python tutorial, you'll tackle implicit and explicit data type conversion of primitive and non-primitive data structures with the help of code examples!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-data-type-conversion"
+  },
+  "55": {
+    "titleS": "Depth-First Search in Python: Traversing Graphs and Trees",
+    "categoryS": "Data Science",
+    "descS": "Discover the essentials of depth-first search for …to breadth-first search and Dijkstra’s algorithm.",
+    "link": "https://app.datacamp.com/learn/tutorials/depth-first-search-in-python"
+  },
+  "56": {
+    "titleS": "Evaluate LLMs Effectively Using DeepEval: A Practical Guide",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn to use DeepEval to create Pytest-like releva…G-eval metric, and benchmark Qwen 2.5 using MMLU.",
+    "link": "https://app.datacamp.com/learn/tutorials/deepeval"
+  },
+  "57": {
+    "titleS": "Python Seaborn Tutorial For Beginners: Start Visualizing Data",
+    "categoryS": "Data Visualization",
+    "descS": "This Seaborn tutorial introduces you to the basics of statistical data visualization",
+    "link": "https://app.datacamp.com/learn/tutorials/seaborn-python-tutorial"
+  },
+  "58": {
+    "titleS": "30 Cool Python Tricks For Better Code With Examples",
+    "categoryS": "Python",
+    "descS": "We've curated 30 cool Python tricks you could use to improve your code and develop your Python skills.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-tips-examples"
+  },
+  "59": {
+    "titleS": "A Guide to Python Hashmaps",
+    "categoryS": "Data Engineering",
+    "descS": "Discover what hashmaps are and how they are implemented in Python through dictionaries.",
+    "link": "https://app.datacamp.com/learn/tutorials/guide-to-python-hashmaps"
+  },
+  "60": {
+    "titleS": "NLTK Sentiment Analysis Tutorial for Beginners",
+    "categoryS": "Python",
+    "descS": "Python NLTK (natural language toolkit) sentiment a…and analyze text for natural language processing.",
+    "link": "https://app.datacamp.com/learn/tutorials/text-analytics-beginners-nltk"
+  },
+  "61": {
+    "titleS": "Implementing the Minimax Algorithm for AI in Python",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn to code an unbeatable Tic-tac-toe AI using t… and optimization, ideal for game AI enthusiasts.",
+    "link": "https://app.datacamp.com/learn/tutorials/minimax-algorithm-for-ai-in-python"
+  },
+  "62": {
+    "titleS": "Python Hello World: A Beginner’s Guide to Programming",
+    "categoryS": "Python",
+    "descS": "Learn the fundamentals of Python by running the print(“Hello World”) program.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-hello-world-a-beginners-guide-to-programming"
+  },
+  "63": {
+    "titleS": "Python Lambda Functions: A Beginner’s Guide",
+    "categoryS": "Python",
+    "descS": "Learn about Python lambda functions, their purpose… and best practices for effective implementation.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-lambda-functions"
+  },
+  "64": {
+    "titleS": "Gaussian Distribution: A Comprehensive Guide",
+    "categoryS": "Data Analysis",
+    "descS": "Uncover the significance of the Gaussian distribut…tions in machine learning and hypothesis testing.",
+    "link": "https://app.datacamp.com/learn/tutorials/gaussian-distribution"
+  },
+  "65": {
+    "titleS": "How to Do Principal Component Analysis (PCA) in Python",
+    "categoryS": "Data Visualization",
+    "descS": "Learn about PCA and how it can be leveraged to ext…two popular datasets: Breast Cancer and CIFAR-10.",
+    "link": "https://app.datacamp.com/learn/tutorials/principal-component-analysis-in-python"
+  },
+  "66": {
+    "titleS": "Python String to DateTime: How to Convert Strings to DateTime Objects",
+    "categoryS": "Data Science",
+    "descS": "Learn all about the Python datetime module in this…time conversion, code samples, and common errors.",
+    "link": "https://app.datacamp.com/learn/tutorials/converting-strings-datetime-objects"
+  },
+  "67": {
+    "titleS": "Variance Inflation Factor (VIF): Addressing Multicollinearity in Regression Analysis",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to detect multicollinearity in regressio…rove the reliability of your regression modeling.",
+    "link": "https://app.datacamp.com/learn/tutorials/variance-inflation-factor"
+  },
+  "68": {
+    "titleS": "Implementing the Dijkstra Algorithm in Python: A Step-by-Step Tutorial",
+    "categoryS": "Python",
+    "descS": "Dijkstra's algorithm helps find the shortest route between two points in a network, like finding the quickest path on a map, by checking and updating distances step-by-step.",
+    "link": "https://app.datacamp.com/learn/tutorials/dijkstra-algorithm-in-python"
+  },
+  "69": {
+    "titleS": "Exponents in Python: A Comprehensive Guide for Beginners",
+    "categoryS": "Python",
+    "descS": "Master exponents in Python using various methods, …l-world scenarios to gain a deeper understanding.",
+    "link": "https://app.datacamp.com/learn/tutorials/exponents-in-python"
+  },
+  "70": {
+    "titleS": "Structural Equation Modeling: What It Is and When to Use It",
+    "categoryS": "Data Science",
+    "descS": "Explore the types of structural equation models. L…pret the results in structural equation modeling.",
+    "link": "https://app.datacamp.com/learn/tutorials/structural-equation-modeling"
+  },
+  "71": {
+    "titleS": "PyTorch CNN Tutorial: Build and Train Convolutional Neural Networks in Python",
+    "categoryS": "Deep Learning",
+    "descS": "Learn how to construct and implement Convolutional Neural Networks (CNNs) in Python with PyTorch.",
+    "link": "https://app.datacamp.com/learn/tutorials/pytorch-cnn-tutorial"
+  },
+  "72": {
+    "titleS": "Support Vector Machines with Scikit-learn Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you'll learn about Support Vector Machines, one of the most popular and widely used supervised machine learning algorithms.",
+    "link": "https://app.datacamp.com/learn/tutorials/svm-classification-scikit-learn-python"
+  },
+  "73": {
+    "titleS": "Using a Knowledge Graph to Implement a RAG Application",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn how to implement knowledge graphs for RAG ap…o enhance AI responses with structured knowledge.",
+    "link": "https://app.datacamp.com/learn/tutorials/knowledge-graph-rag"
+  },
+  "74": {
+    "titleS": "Python New Line: Methods for Code Formatting",
+    "categoryS": "Data Analysis",
+    "descS": "Discover how to use \\\\n to insert line breaks in st…nesep for managing text across different systems.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-new-line"
+  },
+  "75": {
+    "titleS": "Python Data Classes: A Comprehensive Tutorial",
+    "categoryS": "Python",
+    "descS": "A beginner-friendly tutorial on Python data classes and how to use them in practice",
+    "link": "https://app.datacamp.com/learn/tutorials/python-data-classes"
+  },
+  "76": {
+    "titleS": "openpyxl: Automate Excel Tasks with Python",
+    "categoryS": "Python",
+    "descS": "Learn how to read, write, and style Excel files us…dern Excel formats (.xlsx) and advanced features.",
+    "link": "https://app.datacamp.com/learn/tutorials/openpyxl"
+  },
+  "77": {
+    "titleS": "A Comprehensive Guide to K-Fold Cross Validation",
+    "categoryS": "Data Science",
+    "descS": "Learn how K-Fold Cross-Validation works and its ad…old Cross-Validation in Python with scikit-learn.",
+    "link": "https://app.datacamp.com/learn/tutorials/k-fold-cross-validation"
+  },
+  "78": {
+    "titleS": "Managing PostgreSQL Databases in Python with psycopg2",
+    "categoryS": "Data Science",
+    "descS": "Discover how to create, connect to and manage PostgreSQL databases using Python’s psycopg2 package.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-postgresql-python"
+  },
+  "79": {
+    "titleS": "Python Abstract Classes: A Comprehensive Guide with Examples",
+    "categoryS": "Python",
+    "descS": "Learn about Python abstract classes, their purpose… and best practices for effective implementation.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-abstract-classes"
+  },
+  "80": {
+    "titleS": "Python Automation: A Complete Guide",
+    "categoryS": "Python",
+    "descS": "Learn about Python automation, including fundament…and best practices. Includes real-world examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-automation"
+  },
+  "81": {
+    "titleS": "Pydantic: A Guide With Practical Examples",
+    "categoryS": "Data Science",
+    "descS": "Learn what Pydantic is, what it’s used for, and ho…natives like Marshmallow or Python’s dataclasses.",
+    "link": "https://app.datacamp.com/learn/tutorials/pydantic"
+  },
+  "82": {
+    "titleS": "Understanding Data Drift and Model Drift: Drift Detection in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Navigate the perils of model drift and explore our practical guide to data drift monitoring.",
+    "link": "https://app.datacamp.com/learn/tutorials/understanding-data-drift-model-drift"
+  },
+  "83": {
+    "titleS": "A Complete Guide to Socket Programming in Python",
+    "categoryS": "Python",
+    "descS": "Learn the fundamentals of socket programming in Python",
+    "link": "https://app.datacamp.com/learn/tutorials/a-complete-guide-to-socket-programming-in-python"
+  },
+  "84": {
+    "titleS": "Great Expectations Tutorial: Validating Data with Python",
+    "categoryS": "Data Engineering",
+    "descS": "Learn how to validate your data with Great Expectations in Python with this end-to-end tutorial!",
+    "link": "https://app.datacamp.com/learn/tutorials/great-expectations-tutorial"
+  },
+  "85": {
+    "titleS": "Exception & Error Handling in Python",
+    "categoryS": "Python",
+    "descS": "Errors and exceptions can lead to program failure …et of tools to improve the stability of the code.",
+    "link": "https://app.datacamp.com/learn/tutorials/exception-handling-python"
+  },
+  "86": {
+    "titleS": "An Introduction to Q-Learning: A Tutorial For Beginners",
+    "categoryS": "Machine Learning",
+    "descS": "Learn about the most popular model-free reinforcement learning algorithm with a Python tutorial.",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-q-learning-beginner-tutorial"
+  },
+  "87": {
+    "titleS": "Python Dictionary Comprehension: Essentials You Need to Know",
+    "categoryS": "Data Literacy",
+    "descS": "Learn all about Python dictionary comprehension. L…nctions with map(), filter(), reduce(), and more!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dictionary-comprehension"
+  },
+  "88": {
+    "titleS": "A Beginner’s Guide to Data Cleaning in Python",
+    "categoryS": "Python",
+    "descS": "Explore the principles of data cleaning in Python …alues, outliers, duplicates, and inconsistencies.",
+    "link": "https://app.datacamp.com/learn/tutorials/guide-to-data-cleaning-in-python"
+  },
+  "89": {
+    "titleS": "Python Modules Tutorial: Importing, Writing, and Using Them",
+    "categoryS": "Python",
+    "descS": "Learn how to create and import Python modules. Dis…g reusable, organized, and efficient Python code!",
+    "link": "https://app.datacamp.com/learn/tutorials/modules-in-python"
+  },
+  "90": {
+    "titleS": "Fine-Tuning Llama 3 and Using It Locally: A Step-by-Step Guide",
+    "categoryS": "Artificial Intelligence",
+    "descS": "We'll fine-tune Llama 3 on a dataset of patient-doctor conversations, creating a model tailored for medical dialogue. After merging, converting, and quantizing the model, it will be ready for private local use via the Jan application.",
+    "link": "https://app.datacamp.com/learn/tutorials/llama3-fine-tuning-locally"
+  },
+  "91": {
+    "titleS": "Python JSON Data: A Guide With Examples",
+    "categoryS": "Python",
+    "descS": "Learn how to work with JSON in Python, including s…nderstanding JSON’s limitations and alternatives.",
+    "link": "https://app.datacamp.com/learn/tutorials/json-data-python"
+  },
+  "92": {
+    "titleS": "Mastering Python APIs: A Comprehensive Guide to Building and Using APIs in Python",
+    "categoryS": "Data Engineering",
+    "descS": "Learn how to use a Python API to connect systems a…nd make your applications dynamic and responsive.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-api"
+  },
+  "93": {
+    "titleS": "Breadth-First Search in Python: A Guide with Examples",
+    "categoryS": "Data Science",
+    "descS": "Discover how breadth-first search systematically e…S across data science, AI, and networking fields.",
+    "link": "https://app.datacamp.com/learn/tutorials/breadth-first-search-in-python"
+  },
+  "94": {
+    "titleS": "Python Numpy Array Tutorial",
+    "categoryS": "Data Science",
+    "descS": "A NumPy tutorial for beginners in which you'll learn how to create a NumPy array, use broadcasting, access values, manipulate arrays, and much more.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-numpy-tutorial"
+  },
+  "95": {
+    "titleS": "pytest-mock Tutorial: A Beginner’s Guide to Mocking in Python",
+    "categoryS": "Python",
+    "descS": "Learn how to use pytest-mock, from setup and funda…als to advanced techniques for practical testing.",
+    "link": "https://app.datacamp.com/learn/tutorials/pytest-mock"
+  },
+  "96": {
+    "titleS": "Types of Data Plots and How to Create Them in Python",
+    "categoryS": "Data Visualization",
+    "descS": "Explore various types of data plots—from the most …, and how to create and customize them in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/types-of-data-plots-and-how-to-create-them-in-python"
+  },
+  "97": {
+    "titleS": "Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to use the ydata-profiling library in Py…detailed reports for datasets with many features.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-profiling-ydata-profiling-in-python-guide"
+  },
+  "98": {
+    "titleS": "A Comprehensive Tutorial on Optical Character Recognition (OCR) in Python With Pytesseract",
+    "categoryS": "Machine Learning",
+    "descS": "Master the fundamentals of optical character recognition in OCR with PyTesseract and OpenCV.",
+    "link": "https://app.datacamp.com/learn/tutorials/optical-c…racter-recognition-ocr-in-python-with-pytesseract"
+  },
+  "99": {
+    "titleS": "How to Convert a List to a String in Python",
+    "categoryS": "Python",
+    "descS": "Learn how to convert a list to a string in Python in this quick tutorial.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-convert-a-list-to-a-string-in-python"
+  },
+  "100": {
+    "titleS": "Understanding the Negative Binomial Distribution: A Full Guide",
+    "categoryS": "Data Science",
+    "descS": "Discover the intricacies of the negative binomial …es and visual aids to enhance your understanding.",
+    "link": "https://app.datacamp.com/learn/tutorials/negative-binomial-distribution"
+  },
+  "101": {
+    "titleS": "Beginner Tutorial: Recommender Systems in Python",
+    "categoryS": "Python",
+    "descS": "Build your recommendation engine with the help of … and collaborative filtering recommender systems.",
+    "link": "https://app.datacamp.com/learn/tutorials/recommender-systems-python"
+  },
+  "102": {
+    "titleS": "Convolutional Neural Networks (CNN) with TensorFlow Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how to construct and implement Convolutional…orks (CNNs) in Python with Tensorflow Framework 2",
+    "link": "https://app.datacamp.com/learn/tutorials/cnn-tensorflow-python"
+  },
+  "103": {
+    "titleS": "AUC and the ROC Curve in Machine Learning",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how the AUC-ROC curve assesses binary classi…C values and compare classifiers in one workflow.",
+    "link": "https://app.datacamp.com/learn/tutorials/auc"
+  },
+  "104": {
+    "titleS": "Lasso and Ridge Regression in Python Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "Learn about the lasso and ridge techniques of regression. Compare and analyse the methods in detail.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-lasso-ridge-regression"
+  },
+  "105": {
+    "titleS": "Python Boxplots: A Comprehensive Guide for Beginners",
+    "categoryS": "Data Visualization",
+    "descS": "Create stunning boxplots in Python! This comprehen…ing you visualize and compare data distributions.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-boxplots"
+  },
+  "106": {
+    "titleS": "f-string Formatting in Python",
+    "categoryS": "Python",
+    "descS": "Learn about the f-string formatting technique in P… it offers and go through some example use cases.",
+    "link": "https://app.datacamp.com/learn/tutorials/f-string-formatting-in-python"
+  },
+  "107": {
+    "titleS": "Python Tabulate: A Full Guide",
+    "categoryS": "Data Analysis",
+    "descS": "Use the tabulate library in Python to create well-…res and options for customizing table appearance.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-tabulate"
+  },
+  "108": {
+    "titleS": "How to Split Lists in Python: Basic Examples and Advanced Methods",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to split Python lists with techniques li…hen to use each method for optimal data handling.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-split-list"
+  },
+  "109": {
+    "titleS": "Understanding Euclidean Distance: From Theory to Practice",
+    "categoryS": "Data Science",
+    "descS": "Explore how Euclidean distance bridges ancient geo… science, machine learning, and spatial analysis.",
+    "link": "https://app.datacamp.com/learn/tutorials/euclidean-distance"
+  },
+  "110": {
+    "titleS": "Python IF, ELIF, and ELSE Statements",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you will learn exclusively about Python if else statements.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-if-elif-else"
+  },
+  "111": {
+    "titleS": "Python Print Without New Line: What You Need to Know",
+    "categoryS": "Data Analysis",
+    "descS": "Control Python's print output to avoid automatic new lines. Learn how to override the default newline behavior using the end parameter, sys module, and string concatenation.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-print-without-new-line"
+  },
+  "112": {
+    "titleS": "Python Data Structures Tutorial",
+    "categoryS": "Python",
+    "descS": "Get introduced to Python data structures: learn mo… structures, such as strings, lists, stacks, etc.",
+    "link": "https://app.datacamp.com/learn/tutorials/data-structures-python"
+  },
+  "113": {
+    "titleS": "Python Loops Tutorial",
+    "categoryS": "Python",
+    "descS": "A comprehensive introductory tutorial to Python lo…d continue keywords, the range function and more!",
+    "link": "https://app.datacamp.com/learn/tutorials/loops-python-tutorial"
+  },
+  "114": {
+    "titleS": "An Introduction to Using Transformers and Hugging Face",
+    "categoryS": "Python",
+    "descS": "Understand Transformers and harness their power to solve real-life problems.",
+    "link": "https://app.datacamp.com/learn/tutorials/an-introduction-to-using-transformers-and-hugging-face"
+  },
+  "115": {
+    "titleS": "Python Cache: Two Simple Methods",
+    "categoryS": "Data Science",
+    "descS": "Learn to use decorators like @functools.lru_cache or @functools.cache to cache functions in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-cache-introduction"
+  },
+  "116": {
+    "titleS": "Markov Chains in Python: Beginner Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn about Markov Chains, their properties, trans…n matrices, and implement one yourself in Python!",
+    "link": "https://app.datacamp.com/learn/tutorials/markov-chains-python-tutorial"
+  },
+  "117": {
+    "titleS": "Generating WordClouds in Python Tutorial",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to perform Exploratory Data Analysis for…al Language Processing using WordCloud in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/wordcloud-python"
+  },
+  "118": {
+    "titleS": "Apriori Algorithm Explained: A Step-by-Step Guide with Python Implementation",
+    "categoryS": "Machine Learning",
+    "descS": "Discover how the Apriori algorithm works, its key …ely use it for data analysis and decision-making.",
+    "link": "https://app.datacamp.com/learn/tutorials/apriori-algorithm"
+  },
+  "119": {
+    "titleS": "Python Bar Plot: Master Basic and More Advanced Techniques",
+    "categoryS": "Data Analysis",
+    "descS": "Create standout bar charts using Matplotlib, Seabo…bars to more complex grouped and stacked layouts.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-bar-plot"
+  },
+  "120": {
+    "titleS": "Data Structures: A Comprehensive Guide With Python Examples",
+    "categoryS": "Data Literacy",
+    "descS": "Data structures are methods of organizing data to …e efficient storage, retrieval, and manipulation.",
+    "link": "https://app.datacamp.com/learn/tutorials/data-structures-guide-python"
+  },
+  "121": {
+    "titleS": "Lowercase in Python Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn to convert spreadsheet table column into lowercase using .str.lower().",
+    "link": "https://app.datacamp.com/learn/tutorials/case-conversion-python"
+  },
+  "122": {
+    "titleS": "Top Techniques to Handle Missing Values Every Data Scientist Should Know",
+    "categoryS": "Data Analysis",
+    "descS": "Explore various techniques to efficiently handle missing values and their implementations in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/techniques-to-handle-missing-data-values"
+  },
+  "123": {
+    "titleS": "How to Convert a String Into an Integer in Python",
+    "categoryS": "Python",
+    "descS": "Learn how to convert Python strings to integers in this quick tutorial.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-convert-a-string-into-an-integer-in-python"
+  },
+  "124": {
+    "titleS": "Python Inheritance: Best Practices for Reusable Code",
+    "categoryS": "Data Analysis",
+    "descS": "Python inheritance allows you to build new classes…, and apply techniques such as method overriding.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-inheritance"
+  },
+  "125": {
+    "titleS": "Web Scraping using Python (and Beautiful Soup)",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn how to extract data from the web, manipulate and clean data using Python's Pandas library, and data visualize using Python's Matplotlib library.",
+    "link": "https://app.datacamp.com/learn/tutorials/web-scraping-using-python"
+  },
+  "126": {
+    "titleS": "Python Pickle Tutorial: Object Serialization",
+    "categoryS": "Data Science",
+    "descS": "Discover the Python pickle module: learn about ser… pickled objects, multiprocessing, and much more!",
+    "link": "https://app.datacamp.com/learn/tutorials/pickle-python-tutorial"
+  },
+  "127": {
+    "titleS": "How to Square a Number in Python: Basic Examples and Advanced Methods",
+    "categoryS": "Data Analysis",
+    "descS": "Squaring in Python is easy: Use the in-built ** op…and other functions for more versatile solutions.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-square"
+  },
+  "128": {
+    "titleS": "Django Web Development in Python",
+    "categoryS": "Python",
+    "descS": "Learn about the basics of web development using Dj…CRUD) Create, Read, Update, Delete functionality.",
+    "link": "https://app.datacamp.com/learn/tutorials/web-development-django"
+  },
+  "129": {
+    "titleS": "How to Trim a String in Python: Three Different Methods",
+    "categoryS": "Python",
+    "descS": "Learn the fundamentals of trimming leading and trailing characters from a string in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-trim"
+  },
+  "130": {
+    "titleS": "21 Essential Python Tools",
+    "categoryS": "Data Science",
+    "descS": "Learn about the essential Python tools for softwar…analysis and visualization, and machine learning.",
+    "link": "https://app.datacamp.com/learn/tutorials/21-essential-python-tools"
+  },
+  "131": {
+    "titleS": "Reinforcement Learning with Gymnasium: A Practical Guide",
+    "categoryS": "Machine Learning",
+    "descS": "Understand the basics of Reinforcement Learning (R…age to build and test RL algorithms using Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/reinforcement-learning-with-gymnasium"
+  },
+  "132": {
+    "titleS": "Linear Regression in Python: Your Guide to Predictive Modeling",
+    "categoryS": "Data Science",
+    "descS": "Learn how to perform linear regression in Python using NumPy, statsmodels, and scikit-learn.",
+    "link": "https://app.datacamp.com/learn/tutorials/linear-regression-in-python"
+  },
+  "133": {
+    "titleS": "Python f-string: A Complete Guide",
+    "categoryS": "Python",
+    "descS": "Master Python's f-strings, the most elegant way to handle string formatting in your code. This guide covers everything from basic syntax to advanced techniques. Learn how to write cleaner, more maintainable code with real-world examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-f-string"
+  },
+  "134": {
+    "titleS": "Recursion in Python: Concepts, Examples, and Tips",
+    "categoryS": "Python",
+    "descS": "Learn recursion in Python with examples, key conce…ctions, and when to use recursion over iteration.",
+    "link": "https://app.datacamp.com/learn/tutorials/recursion-in-python"
+  },
+  "135": {
+    "titleS": "The 6 Best Python IDEs for Data Science in 2025",
+    "categoryS": "Data Analysis",
+    "descS": "Find the perfect Python IDE for your data science …ormance to make an informed and confident choice.",
+    "link": "https://app.datacamp.com/learn/tutorials/data-science-python-ide"
+  },
+  "136": {
+    "titleS": "Python timedelta: Working With Time Intervals in Python",
+    "categoryS": "Data Analysis",
+    "descS": "In Python, timedelta is a data type within the dat…ations or differences between two points in time.",
+    "link": "https://app.datacamp.com/learn/tutorials/timedelta-python-time-intervals"
+  },
+  "137": {
+    "titleS": "Handling Machine Learning Categorical Data with Python Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "Learn the common tricks to handle categorical data…d preprocess it to build machine learning models!",
+    "link": "https://app.datacamp.com/learn/tutorials/categorical-data"
+  },
+  "138": {
+    "titleS": "Python List Functions & Methods Tutorial and Examples",
+    "categoryS": "Python",
+    "descS": "Learn about Python List functions and methods. Fol…ist() and other Python functions and methods now!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-list-function"
+  },
+  "139": {
+    "titleS": "Seaborn Heatmaps: A Guide to Data Visualization",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to create eye-catching Seaborn heatmaps.",
+    "link": "https://app.datacamp.com/learn/tutorials/seaborn-heatmaps"
+  },
+  "140": {
+    "titleS": "Line Plots in MatplotLib with Python",
+    "categoryS": "Data Visualization",
+    "descS": "This hands-on tutorial dives deep into creating an… a powerful data visualization library in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/line-plots-in-matplotlib-with-python"
+  },
+  "141": {
+    "titleS": "Python Bag of Words Model: A Complete Guide",
+    "categoryS": "Natural Language Processing",
+    "descS": "Explore everything you need to know about how to implement the bag of words model in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-bag-of-words-model"
+  },
+  "142": {
+    "titleS": "Python Select Columns Tutorial",
+    "categoryS": "Data Analysis",
+    "descS": "Use Python Pandas and select columns from DataFram…d learn different ways to select your data today!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-select-columns"
+  },
+  "143": {
+    "titleS": "For Loops in Python Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn how to implement For Loops in Python for ite…e, or the rows and columns of a pandas dataframe.",
+    "link": "https://app.datacamp.com/learn/tutorials/for-loops-in-python"
+  },
+  "144": {
+    "titleS": "Python .append() and .extend() Methods Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn how to use the .append() and .extend() methods to add elements to a list.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-list-methods"
+  },
+  "145": {
+    "titleS": "Association Rule Mining in Python Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "Uncovering Hidden Patterns in Python with Association Rule Mining",
+    "link": "https://app.datacamp.com/learn/tutorials/association-rule-mining-python"
+  },
+  "146": {
+    "titleS": "TensorFlow Tutorial For Beginners",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how to build a neural network and how to train, evaluate and optimize it with TensorFlow",
+    "link": "https://app.datacamp.com/learn/tutorials/tensorflow-tutorial"
+  },
+  "147": {
+    "titleS": "A Comprehensive Guide to Using pathlib in Python For File System Manipulation",
+    "categoryS": "Data Analysis",
+    "descS": "Discover advantages of Python pathlib over the os …mmon path operations for file system interaction.",
+    "link": "https://app.datacamp.com/learn/tutorials/comprehen…ng-pathlib-in-python-for-file-system-manipulation"
+  },
+  "148": {
+    "titleS": "Python NaN: 4 Ways to Check for Missing Values in Python",
+    "categoryS": "Python",
+    "descS": "Explore 4 ways to detect NaN values in Python, usi…N and None to clean and analyze data efficiently.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-nan-missing-values-in-python"
+  },
+  "149": {
+    "titleS": "Joining DataFrames in pandas Tutorial",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you’ll learn various ways in whi…s could be merged in python using Pandas library.",
+    "link": "https://app.datacamp.com/learn/tutorials/joining-dataframes-pandas"
+  },
+  "150": {
+    "titleS": "Introduction to Maximum Likelihood Estimation (MLE)",
+    "categoryS": "Machine Learning",
+    "descS": "Learn what Maximum Likelihood Estimation (MLE) is,…les, and discover how to implement MLE in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/maximum-likelihood-estimation-mle"
+  },
+  "151": {
+    "titleS": "Optimization in Python: Techniques, Packages, and Best Practices",
+    "categoryS": "Machine Learning",
+    "descS": "This article teaches you about numerical optimizat… practical DataLab notebook to run code examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/optimization-in-python"
+  },
+  "152": {
+    "titleS": "Getting Started with JupyterLab Tutorial",
+    "categoryS": "Data Science",
+    "descS": "In this article, we will introduce you to JupyterLab, one of the most popular IDE for data science.",
+    "link": "https://app.datacamp.com/learn/tutorials/installing-jupyter-notebook"
+  },
+  "153": {
+    "titleS": "What is Terraform? Get Started With Infrastructure as Code",
+    "categoryS": "Data Engineering",
+    "descS": "Read our step-by-step beginner's guide to using Terraform, and learn how to efficiently automate and manage your Azure, AWS, and Google Cloud infrastructure.",
+    "link": "https://app.datacamp.com/learn/tutorials/getting-started-terraform"
+  },
+  "154": {
+    "titleS": "Python range() Function Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn about the Python range() function and its capabilities with the help of examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-range-function"
+  },
+  "155": {
+    "titleS": "Python Redis: A Beginner's Guide",
+    "categoryS": "Data Engineering",
+    "descS": "Learn how to use Python is used for Redis in this beginner guide.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-redis-beginner-guide"
+  },
+  "156": {
+    "titleS": "Python Concatenate Strings Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn various methods to concatenate strings in Python, with examples to illustrate each technique.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-concatenate-strings"
+  },
+  "157": {
+    "titleS": "Coding Best Practices and Guidelines for Better Code",
+    "categoryS": "Python",
+    "descS": "Learn coding best practices to improve your progra…laboration, code structure, efficiency, and more.",
+    "link": "https://app.datacamp.com/learn/tutorials/coding-best-practices-and-guidelines"
+  },
+  "158": {
+    "titleS": "Python: Remove Duplicates From A List (Five Solutions)",
+    "categoryS": "Python",
+    "descS": "To remove duplicates from a Python list while pres…keys as a new list: list(dict.fromkeys(my_list)).",
+    "link": "https://app.datacamp.com/learn/tutorials/python-how-to-remove-the-duplicates-from-a-list"
+  },
+  "159": {
+    "titleS": "Introduction to Memory Profiling in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how memory profiling in Python can optimize … like memory_profiler, tracemalloc, and objgraph.",
+    "link": "https://app.datacamp.com/learn/tutorials/memory-profiling-python"
+  },
+  "160": {
+    "titleS": "Building a Chatbot using Chatterbot in Python",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn how to build a chatbot using chatterbot in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/building-a-chatbot-using-chatterbot"
+  },
+  "161": {
+    "titleS": "Python Iterators and Generators Tutorial",
+    "categoryS": "Python",
+    "descS": "Explore the difference between Python Iterators an… which are the best to use in various situations.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-iterators-generators-tutorial"
+  },
+  "162": {
+    "titleS": "How to Create a Sankey Diagram in Excel, Python, and R",
+    "categoryS": "Data Analysis",
+    "descS": "From basic concepts to advanced implementation, le…ke flow visualizations compelling and insightful.",
+    "link": "https://app.datacamp.com/learn/tutorials/sankey-diagram"
+  },
+  "163": {
+    "titleS": "Forward Propagation in Neural Networks: A Complete Guide",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how forward propagation works in neural netw…ng concept with code examples and visualizations.",
+    "link": "https://app.datacamp.com/learn/tutorials/forward-propagation-neural-networks"
+  },
+  "164": {
+    "titleS": "Operators in Python",
+    "categoryS": "Data Science",
+    "descS": "This tutorial covers the different types of operat…erator overloading, precedence and associativity.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-operators-tutorial"
+  },
+  "165": {
+    "titleS": "Python Arrays",
+    "categoryS": "Data Science",
+    "descS": "Python arrays with code examples. Learn how to create and print arrays using Python NumPy today!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-arrays"
+  },
+  "166": {
+    "titleS": "Binary Search in Python: A Complete Guide for Efficient Searching",
+    "categoryS": "Data Science",
+    "descS": "Learn how to implement binary search in Python usi…ficient, pre-implemented binary search functions.",
+    "link": "https://app.datacamp.com/learn/tutorials/binary-search-python"
+  },
+  "167": {
+    "titleS": "Python For Finance Tutorial: Algorithmic Trading",
+    "categoryS": "Data Science",
+    "descS": "This Python for Finance tutorial introduces you to algorithmic trading, and much more.",
+    "link": "https://app.datacamp.com/learn/tutorials/finance-python-trading"
+  },
+  "168": {
+    "titleS": "Pandas Sort Values: A Complete How-To",
+    "categoryS": "Python",
+    "descS": "Use sort_values() to reorder rows by column values…thods to explore your data from different angles.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-sort-values"
+  },
+  "169": {
+    "titleS": "A Beginner's Guide to CI/CD for Machine Learning",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how to automate model training, evaluation, …ns with the easiest MLOps guide available online.",
+    "link": "https://app.datacamp.com/learn/tutorials/ci-cd-for-machine-learning"
+  },
+  "170": {
+    "titleS": "Encapsulation in Python: A Comprehensive Guide",
+    "categoryS": "Python",
+    "descS": "Learn the fundamentals of implementing encapsulation in Python object-oriented programming.",
+    "link": "https://app.datacamp.com/learn/tutorials/encapsulation-in-python-object-oriented-programming"
+  },
+  "171": {
+    "titleS": "Stemming and Lemmatization in Python",
+    "categoryS": "Machine Learning",
+    "descS": "This tutorial covers stemming and lemmatization fr…e Python Natural Language ToolKit (NLTK) package.",
+    "link": "https://app.datacamp.com/learn/tutorials/stemming-lemmatization-python"
+  },
+  "172": {
+    "titleS": "CatBoost in Machine Learning: A Detailed Guide",
+    "categoryS": "Data Science",
+    "descS": "Discover how CatBoost simplifies the handling of c…formed choices in your machine learning projects.",
+    "link": "https://app.datacamp.com/learn/tutorials/catboost"
+  },
+  "173": {
+    "titleS": "Python Print() Function",
+    "categoryS": "Python",
+    "descS": "Learn how you can leverage the capability of a sim…nction in various ways with the help of examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-print-function"
+  },
+  "174": {
+    "titleS": "GPT-4o API Tutorial: Getting Started with OpenAI's API",
+    "categoryS": "Artificial Intelligence",
+    "descS": "To connect through the GPT-4o API, obtain your API…sts and receive responses from the GPT-4o models.",
+    "link": "https://app.datacamp.com/learn/tutorials/gpt4o-api-openai-tutorial"
+  },
+  "175": {
+    "titleS": "Understanding Text Classification in Python",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Discover what text classification is, how it works…ollowed by a text classification model in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/text-classification-python"
+  },
+  "176": {
+    "titleS": "Snscrape Tutorial: How to Scrape Social Media with Python",
+    "categoryS": "Data Science",
+    "descS": "This snscrape tutorial equips you to install, use,…acebook posts, Instagram hashtags, or Subreddits.",
+    "link": "https://app.datacamp.com/learn/tutorials/snscrape-tutorial-web-scraping"
+  },
+  "177": {
+    "titleS": "Self-Organizing Maps: An Intuitive Guide with Python Examples",
+    "categoryS": "Machine Learning",
+    "descS": "Understand the core concepts of Self Organizing Ma…rn how to implement them in Python using MiniSom.",
+    "link": "https://app.datacamp.com/learn/tutorials/self-organizing-maps"
+  },
+  "178": {
+    "titleS": "How to Run Python Scripts Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how you can execute a Python script from the…an provide command line arguments to your script.",
+    "link": "https://app.datacamp.com/learn/tutorials/running-a-python-script"
+  },
+  "179": {
+    "titleS": "How to Check if a File Exists in Python",
+    "categoryS": "Python",
+    "descS": "Learn how to check if a file exists in Python in this simple tutorial",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-check-if-a-file-exists-in-python"
+  },
+  "180": {
+    "titleS": "Role of Underscore(_) in Python Tutorial",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you're going to learn about the uses of underscore(_) in python.",
+    "link": "https://app.datacamp.com/learn/tutorials/role-underscore-python"
+  },
+  "181": {
+    "titleS": "Data Visualization with Power BI",
+    "categoryS": "Data Science",
+    "descS": "Learn how to analyze and display data using Power BI and make better, more data-driven decisions.",
+    "link": "https://app.datacamp.com/learn/tutorials/data-visualisation-powerbi"
+  },
+  "182": {
+    "titleS": "Optimizing with Pyomo: A Complete Step-by-Step Guide",
+    "categoryS": "Data Science",
+    "descS": "Learn how to model and solve optimization problems… examples from linear and nonlinear optimization!",
+    "link": "https://app.datacamp.com/learn/tutorials/pyomo"
+  },
+  "183": {
+    "titleS": "Hierarchical Clustering: Concept Overview With Examples",
+    "categoryS": "Data Analysis",
+    "descS": "Understand the basic concepts of hierarchical clus… how it works, and how to implement it in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/hierarchical-clustering"
+  },
+  "184": {
+    "titleS": "Getting Started with AWS Lambda: A Step-by-Step Tutorial",
+    "categoryS": "AWS",
+    "descS": "Learn the basics of AWS Lambda, how to set up your…S services for application serverless deployment.",
+    "link": "https://app.datacamp.com/learn/tutorials/aws-lambda"
+  },
+  "185": {
+    "titleS": "Implementing the Hill Climbing Algorithm for AI in Python",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn the hill climbing algorithm in Python. This …nd real-world AI applications with code examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/hill-climbing-algorithm-for-ai-in-python"
+  },
+  "186": {
+    "titleS": "Python Slice: Useful Methods for Everyday Coding",
+    "categoryS": "Data Analysis",
+    "descS": "Discover how slicing can effortlessly extract, rea…ces, and advanced step values for full precision.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-slice"
+  },
+  "187": {
+    "titleS": "Python List Comprehension Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn how to effectively use list comprehension in… the map(), filter() and reduce() functions, ...!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-list-comprehension"
+  },
+  "188": {
+    "titleS": "Convolutional Neural Networks in Python with Keras",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you’ll learn how to implement Co…as, and how to overcome overfitting with dropout.",
+    "link": "https://app.datacamp.com/learn/tutorials/convolutional-neural-networks-python"
+  },
+  "189": {
+    "titleS": "How to Sort a Dictionary by Value in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Learn efficient methods to sort a dictionary by va…ing order sorting and bonus tips for key sorting.",
+    "link": "https://app.datacamp.com/learn/tutorials/sort-a-dictionary-by-value-python"
+  },
+  "190": {
+    "titleS": "Python time.sleep() Function",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you will learn how the time.slee…ion operates and how to apply it in your program.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-time-sleep"
+  },
+  "191": {
+    "titleS": "What is Cosine Distance?",
+    "categoryS": "Data Science",
+    "descS": "Explore cosine distance and cosine similarity. Dis…. Learn to implement in R and Python using numpy.",
+    "link": "https://app.datacamp.com/learn/tutorials/cosine-distance"
+  },
+  "192": {
+    "titleS": "How to Use SQL in pandas Using pandasql Queries",
+    "categoryS": "SQL",
+    "descS": "Unleash the power of SQL within pandas and learn w…ng the pandasql library for seamless integration.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-use-sql-in-pandas-using-pandasql-queries"
+  },
+  "193": {
+    "titleS": "Feature Extraction in Machine Learning: A Complete Guide",
+    "categoryS": "Machine Learning",
+    "descS": "Master feature extraction techniques with hands-on…mmon challenges in machine learning applications.",
+    "link": "https://app.datacamp.com/learn/tutorials/feature-extraction-machine-learning"
+  },
+  "194": {
+    "titleS": "Python User Input: Handling, Validation, and Best Practices",
+    "categoryS": "Python",
+    "descS": "Master the fundamentals of user input handling in …re your programs are resilient and user-friendly.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-user-input"
+  },
+  "195": {
+    "titleS": "PEP-8 Tutorial: Code Standards in Python",
+    "categoryS": "Data Science",
+    "descS": "With this beginner tutorial, you'll start to explore PEP-8, Python's style guide, so that you can start formatting your code correctly to maximize its readability!",
+    "link": "https://app.datacamp.com/learn/tutorials/pep8-tutorial-python-code"
+  },
+  "196": {
+    "titleS": "Adam Optimizer Tutorial: Intuition and Implementation in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Understand and implement the Adam optimizer in Pyt…cal applications in machine learning with PyTorch",
+    "link": "https://app.datacamp.com/learn/tutorials/adam-optimizer-tutorial"
+  },
+  "197": {
+    "titleS": "Python Private Methods Explained",
+    "categoryS": "Python",
+    "descS": "Learn about private methods in Python, their synta… projects using examples, and the best practices.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-private-methods-explained"
+  },
+  "198": {
+    "titleS": "How to Get the Current Directory in Python",
+    "categoryS": "Python",
+    "descS": "To get the current working directory in Python, yo…le or pathlib.Path.cwd() from the pathlib module.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-get-the-current-directory"
+  },
+  "199": {
+    "titleS": "PyTorch vs Tensorflow vs Keras",
+    "categoryS": "Deep Learning",
+    "descS": "Explore the key differences between PyTorch, Tenso… cases to choose the right tool for your project.",
+    "link": "https://app.datacamp.com/learn/tutorials/pytorch-vs-tensorflow-vs-keras"
+  },
+  "200": {
+    "titleS": "Matplotlib time series line plot",
+    "categoryS": "Data Visualization",
+    "descS": "This tutorial explores how to create and customize time series line plots in matplotlib.",
+    "link": "https://app.datacamp.com/learn/tutorials/matplotlib-time-series-line-plot"
+  },
+  "201": {
+    "titleS": "How to Use GitHub Copilot: Use Cases and Best Practices",
+    "categoryS": "Python",
+    "descS": "Explore how GitHub Copilot works with Visual Studi…actical applications for students and developers.",
+    "link": "https://app.datacamp.com/learn/tutorials/github-copilot-a-complete-guide-for-beginners"
+  },
+  "202": {
+    "titleS": "Installation of PySpark (All operating systems)",
+    "categoryS": "Data Science",
+    "descS": "This tutorial will demonstrate the installation of…bles in Windows, Linux, and Mac Operating System.",
+    "link": "https://app.datacamp.com/learn/tutorials/installation-of-pyspark"
+  },
+  "203": {
+    "titleS": "Python Multiprocessing: A Guide to Threads and Processes",
+    "categoryS": "Data Science",
+    "descS": "Learn how to manage threads and processes with Pyt…ming. Enhance your code efficiency with examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-multiprocessing-tutorial"
+  },
+  "204": {
+    "titleS": "Python Reverse List: How to Reorder Your Data",
+    "categoryS": "Data Science",
+    "descS": "Choose the right Python list reversal technique be…e tasks like data sorting and sequence alignment.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-reverse-list"
+  },
+  "205": {
+    "titleS": "Softmax Activation Function in Python: A Complete Guide",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how the softmax activation function transfor… implement in Python with TensorFlow and PyTorch.",
+    "link": "https://app.datacamp.com/learn/tutorials/softmax-activation-function-in-python"
+  },
+  "206": {
+    "titleS": "How to Use Pytest for Unit Testing",
+    "categoryS": "Data Science",
+    "descS": "Explore what Pytest is and what it's used for while comparing it to other software testing methods.",
+    "link": "https://app.datacamp.com/learn/tutorials/pytest-tutorial-a-hands-on-guide-to-unit-testing"
+  },
+  "207": {
+    "titleS": "Demystifying Mathematical Concepts for Deep Learning",
+    "categoryS": "Deep Learning",
+    "descS": "Explore basic math concepts for data science and d…erminant, singular value decomposition, and more.",
+    "link": "https://app.datacamp.com/learn/tutorials/demystifying-mathematics-concepts-deep-learning"
+  },
+  "208": {
+    "titleS": "Progress Bars in Python: A Complete Guide with Examples",
+    "categoryS": "Python",
+    "descS": "Learn how to create Python progress bars using tqd…best practices for better UX and app performance.",
+    "link": "https://app.datacamp.com/learn/tutorials/progress-bars-in-python"
+  },
+  "209": {
+    "titleS": "Python Sets and Set Theory Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn about Python sets: what they are, how to cre… and their relationship to set theory operations.",
+    "link": "https://app.datacamp.com/learn/tutorials/sets-in-python"
+  },
+  "210": {
+    "titleS": "An Introduction to Python T-Tests",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to perform t-tests in Python with this t…d t-test, and Welch’s test, and when to use them.",
+    "link": "https://app.datacamp.com/learn/tutorials/an-introduction-to-python-t-tests"
+  },
+  "211": {
+    "titleS": "Python Environment Variables: What You Need to Know",
+    "categoryS": "Python",
+    "descS": "Learn the ins and outs of managing Python environment variables with os and python-dotenv libraries.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-environment-variables"
+  },
+  "212": {
+    "titleS": "if __name__ == \"__main__\" Python: Complete Explanation",
+    "categoryS": "Python",
+    "descS": "The if __name__ == '__main__' block in Python allows you to define code that will only run when the file is executed directly as a script, but not when it's imported as a module into another script.",
+    "link": "https://app.datacamp.com/learn/tutorials/if-name-equals-main-python"
+  },
+  "213": {
+    "titleS": "Intro to Causal AI Using the DoWhy Library in Python",
+    "categoryS": "Artificial Intelligence",
+    "descS": "This tutorial provides an introduction to causal A… fundamental principles and offers code examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/intro-to-causal-ai-using-the-dowhy-library-in-python"
+  },
+  "214": {
+    "titleS": "Step-by-Step Guide to Making Map in Python using Plotly Library",
+    "categoryS": "Python",
+    "descS": "Make your data stand out with stunning maps created with Plotly in Python",
+    "link": "https://app.datacamp.com/learn/tutorials/making-map-in-python-using-plotly-library-guide"
+  },
+  "215": {
+    "titleS": "How to Make a Seaborn Histogram: A Detailed Guide",
+    "categoryS": "Data Visualization",
+    "descS": "Find out how to create a histogram chart using the Seaborn library in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-make-a-seaborn-histogram"
+  },
+  "216": {
+    "titleS": "Winsorized Mean: A Robust Approach to Handling Outliers",
+    "categoryS": "Data Analysis",
+    "descS": "A winsorized mean reduces the influence of outlier…nsorized mean using Python for hands-on practice.",
+    "link": "https://app.datacamp.com/learn/tutorials/winsorized-mean"
+  },
+  "217": {
+    "titleS": "Neo4j Tutorial: Using And Querying Graph Databases in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Learn to use Neo4j graph databases with Python: se…and optimize queries in this comprehensive guide.",
+    "link": "https://app.datacamp.com/learn/tutorials/neo4j-tutorial"
+  },
+  "218": {
+    "titleS": "Python Logical Operators: A Hands-on Introduction",
+    "categoryS": "Data Analysis",
+    "descS": "Python offers three logical operators: and, or, and not. These operators, also known as Boolean operators, evaluate multiple conditions and determine an expression's overall truth value.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-logical-operators-introduction"
+  },
+  "219": {
+    "titleS": "Python in Excel: Advanced Analysis in Your Excel Spreadsheet",
+    "categoryS": "Excel",
+    "descS": "Learn how to use Python in Excel to run advanced a…rning within your existing spreadsheet workflows.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-in-excel"
+  },
+  "220": {
+    "titleS": "Python NiceGUI: Build Powerful Web Interfaces with Ease",
+    "categoryS": "Data Science",
+    "descS": "Explore how NiceGUI allows Python developers to cr… interactive elements and real-time data updates.",
+    "link": "https://app.datacamp.com/learn/tutorials/nicegui"
+  },
+  "221": {
+    "titleS": "Pydantic AI: A Beginner’s Guide With Practical Examples",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn how to build reliable AI agents with Pydanti…and stream insights with practical code examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/pydantic-ai-guide"
+  },
+  "222": {
+    "titleS": "Python Garbage Collection: Key Concepts and Mechanisms",
+    "categoryS": "Data Science",
+    "descS": "Learn how Python automatically manages memory with…y control garbage collection using the gc module.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-garbage-collection"
+  },
+  "223": {
+    "titleS": "How to Execute SQL Queries in Python and R Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn easy and effective ways to run SQL queries i… and R for data analysis and database management.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-how-to-execute-sql-queries-in-r-and-python"
+  },
+  "224": {
+    "titleS": "How to Use the NumPy linspace() Function",
+    "categoryS": "Python",
+    "descS": "Learn how to use the NumPy linspace() function in this quick and easy tutorial.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-use-the-numpy-linspace-function"
+  },
+  "225": {
+    "titleS": "Master Python's argparse Module: Build Better CLIs",
+    "categoryS": "Python",
+    "descS": "Learn to build effective command-line interfaces i…ples and tips to improve your programming skills.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-argparse"
+  },
+  "226": {
+    "titleS": "Modulo Operator in Python: Understanding Key Concepts",
+    "categoryS": "Python",
+    "descS": "Learn how to use the modulo operator (%) in Python…mbers to cryptography, or cyclic data structures.",
+    "link": "https://app.datacamp.com/learn/tutorials/modulo-operator-python"
+  },
+  "227": {
+    "titleS": "GeoPandas Tutorial: An Introduction to Geospatial Analysis",
+    "categoryS": "Data Visualization",
+    "descS": "Get started with GeoPandas, one of the most popular Python libraries for geospatial analysis.",
+    "link": "https://app.datacamp.com/learn/tutorials/geopandas-tutorial-geospatial-analysis"
+  },
+  "228": {
+    "titleS": "Policy Gradient Theorem Explained: A Hands-On Introduction",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn about the policy gradient theorem in RL and …ts to solve a simple RL environment in Gymnasium.",
+    "link": "https://app.datacamp.com/learn/tutorials/policy-gradient-theorem"
+  },
+  "229": {
+    "titleS": "How to Round Up a Number in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Discover three straightforward techniques to round…math module, using the decimal module, and NumPy.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-round-up"
+  },
+  "230": {
+    "titleS": "AdamW Optimizer in PyTorch Tutorial",
+    "categoryS": "Deep Learning",
+    "descS": "Discover how the AdamW optimizer improves model pe…p-by-step guide to implementing AdamW in PyTorch.",
+    "link": "https://app.datacamp.com/learn/tutorials/adamw-optimizer-in-pytorch"
+  },
+  "231": {
+    "titleS": "Google Colab Tutorial for Data Scientists",
+    "categoryS": "Data Literacy",
+    "descS": "A brief guide for navigating Google Colab to carry…ing and collaborating with other data scientists.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-google-colab-for-data-scientists"
+  },
+  "232": {
+    "titleS": "Stochastic Gradient Descent in Python: A Complete Guide for ML Optimization",
+    "categoryS": "Machine Learning",
+    "descS": "Learn Stochastic Gradient Descent, an essential op… Python guide. Perfect for beginners and experts.",
+    "link": "https://app.datacamp.com/learn/tutorials/stochastic-gradient-descent"
+  },
+  "233": {
+    "titleS": "Firecrawl: AI Web Crawler Built for LLM Applications",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Discover how Firecrawl simplifies web data extract…h Python and AI agents to power modern workflows.",
+    "link": "https://app.datacamp.com/learn/tutorials/firecrawl"
+  },
+  "234": {
+    "titleS": "An Introduction to Hierarchical Clustering in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Understand the ins and outs of hierarchical clustering and its implementation in Python",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-hierarchical-clustering-python"
+  },
+  "235": {
+    "titleS": "Running Python Scripts in Power BI Tutorial",
+    "categoryS": "Data Visualization",
+    "descS": "Discover the different ways you can use Python to …nalysis, visualization, and modeling in Power BI.",
+    "link": "https://app.datacamp.com/learn/tutorials/running-python-scripts-in-power-bi-tutorial"
+  },
+  "236": {
+    "titleS": "Normal Equation for Linear Regression Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "Learn what the normal equation is and how can you use it to build machine learning models.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-normal-equation-for-linear-regression"
+  },
+  "237": {
+    "titleS": "KL-Divergence Explained: Intuition, Formula, and Examples",
+    "categoryS": "Machine Learning",
+    "descS": "Explore KL-Divergence, one of the most common yet essential tools used in machine learning.",
+    "link": "https://app.datacamp.com/learn/tutorials/kl-divergence"
+  },
+  "238": {
+    "titleS": "How to Send Microsoft Teams Messages with Python",
+    "categoryS": "DataLab",
+    "descS": "Follow our step-by-step guide on how to integrate …d Teams messages that drive company-wide insight!",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-send-microsoft-teams-messages-with-python"
+  },
+  "239": {
+    "titleS": "Minkowski Distance: A Comprehensive Guide",
+    "categoryS": "Data Science",
+    "descS": "Minkowski distance is a way of measuring the strai…parisons of Minkowski distance in various fields.",
+    "link": "https://app.datacamp.com/learn/tutorials/minkowski-distance"
+  },
+  "240": {
+    "titleS": "How to Use the Python pop() Method",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to use Python's pop() method to remove elements from lists and dictionaries, including how to remove items while iterating. Learn to avoid common errors like IndexError and KeyError.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-pop"
+  },
+  "241": {
+    "titleS": "Claude Sonnet 4: A Hands-On Guide for Developers",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Explore Claude Sonnet 4’s developer features—code …se—by building a Python-based math-solving agent.",
+    "link": "https://app.datacamp.com/learn/tutorials/claude-sonnet-4"
+  },
+  "242": {
+    "titleS": "Moving Data with Python and dlt: A Guide for Data Engineers",
+    "categoryS": "Data Engineering",
+    "descS": "Python dlt is a great choice for data engineers wh…ith local files, cloud, databases, and REST APIs.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dlt"
+  },
+  "243": {
+    "titleS": "ML Workflow Orchestration With Prefect",
+    "categoryS": "Machine Learning",
+    "descS": "Learn everything about a powerful and open-source …cal machine and the cloud with this simple guide.",
+    "link": "https://app.datacamp.com/learn/tutorials/ml-workflow-orchestration-with-prefect"
+  },
+  "244": {
+    "titleS": "A Beginner's Guide to Python for Loops: Mastering for i in range",
+    "categoryS": "Python",
+    "descS": "In the realm of Python programming, mastering loop…in range loop, a fundamental construct in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-for-i-in-range"
+  },
+  "245": {
+    "titleS": "Probability Distributions in Python Tutorial",
+    "categoryS": "Data Analysis",
+    "descS": "In this tutorial, you'll learn about and how to code in Python the probability distributions commonly referenced in machine learning literature.",
+    "link": "https://app.datacamp.com/learn/tutorials/probability-distributions-python"
+  },
+  "246": {
+    "titleS": "How to Make a Gantt Chart in Python with Matplotlib",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to make a Gantt chart in Python with matplotlib and why such visualizations are useful.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-make-gantt-chart-in-python-matplotlib"
+  },
+  "247": {
+    "titleS": "Building User Interfaces For AI Applications with Gradio in Python",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn how to convert technical models into interactive user interfaces with Gradio in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/gradio-python-tutorial"
+  },
+  "248": {
+    "titleS": "Python Dependency Injection: Build Modular and Testable Code",
+    "categoryS": "Python",
+    "descS": "Learn how to make your code modular, testable, and…g various Python dependency injection frameworks.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dependency-injection"
+  },
+  "249": {
+    "titleS": "Python Poetry: Modern And Efficient Python Environment And Dependency Management",
+    "categoryS": "Python",
+    "descS": "Learn how to manage dependencies and virtual environments for complex projects using Python Poetry.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-poetry"
+  },
+  "250": {
+    "titleS": "Python Pie Chart: Build and Style with Pandas and Matplotlib",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to build and enhance pie charts using Py…al design tips to create clear, readable visuals.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-pie-chart"
+  },
+  "251": {
+    "titleS": "How to Exit Python: A Quick Tutorial",
+    "categoryS": "Python",
+    "descS": "In this article, we cover the basics of what happe…, as well as common issues and how to avoid them.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-exit-python-a-quick-tutorial"
+  },
+  "252": {
+    "titleS": "Ensemble Modeling Tutorial: Explore Ensemble Learning Techniques",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you'll learn what ensemble is and how it improves the performance of a machine learning model.",
+    "link": "https://app.datacamp.com/learn/tutorials/ensemble-learning-python"
+  },
+  "253": {
+    "titleS": "Matplotlib Colormaps: Customizing Your Color Schemes",
+    "categoryS": "Data Visualization",
+    "descS": "Enhance your visualizations with Matplotlib colorm…es, and troubleshoot common visualization issues.",
+    "link": "https://app.datacamp.com/learn/tutorials/matplotlib-colormaps"
+  },
+  "254": {
+    "titleS": "Creating Synthetic Data with Python Faker Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Generating synthetic data using Python Faker to su…ld data for application testing and data privacy.",
+    "link": "https://app.datacamp.com/learn/tutorials/creating-synthetic-data-with-python-faker-tutorial"
+  },
+  "255": {
+    "titleS": "Proximal Policy Optimization with PyTorch and Gymnasium",
+    "categoryS": "Machine Learning",
+    "descS": "Learn the first principles of Proximal Policy Opti…ing its implementation in PyTorch with Gymnasium!",
+    "link": "https://app.datacamp.com/learn/tutorials/proximal-policy-optimization"
+  },
+  "256": {
+    "titleS": "Pandas Resample With resample() and asfreq()",
+    "categoryS": "Data Analysis",
+    "descS": "This tutorial explores time series resampling in p…ues using methods like .asfreq() and .resample().",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-resample-asfreq"
+  },
+  "257": {
+    "titleS": "Python Variable Scope And The LEGB Rule Explained",
+    "categoryS": "Python",
+    "descS": "Learn what variable scopes are all about and get f…o see the global and nonlocal keywords in action.",
+    "link": "https://app.datacamp.com/learn/tutorials/scope-of-variables-python"
+  },
+  "258": {
+    "titleS": "Python Merge Sort Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn everything you need to know about the merge …s critical algorithm for sorting large databases.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-merge-sort-tutorial"
+  },
+  "259": {
+    "titleS": "How to Send Slack Messages with Python",
+    "categoryS": "Python",
+    "descS": "Follow our step-by-step guide on how to integrate …matically send Slack messages that drive insight!",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-send-slack-messages-with-python"
+  },
+  "260": {
+    "titleS": "Python Generators: Boosting Performance and Simplifying Code",
+    "categoryS": "Python",
+    "descS": "Learn about Python generators to optimize memory u…ta pipelines and enhance your code’s performance.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-generators"
+  },
+  "261": {
+    "titleS": "Seaborn Barplot: A Complete Guide",
+    "categoryS": "Data Visualization",
+    "descS": "Learn to create and customize Seaborn barplots in …tionships, from basic plots to advanced features.",
+    "link": "https://app.datacamp.com/learn/tutorials/seaborn-barplot"
+  },
+  "262": {
+    "titleS": "Python Regular Expression Tutorial",
+    "categoryS": "Python",
+    "descS": "Discover the power of regular expressions with thi…ut greedy and non-greedy matching, and much more!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-regular-expression-tutorial"
+  },
+  "263": {
+    "titleS": "A Comprehensive Guide on How to Line Break in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to create a line break for a string in P…g backslashes, parentheses, and other delimiters.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-line-break-in-python"
+  },
+  "264": {
+    "titleS": "Python Exploratory Data Analysis Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn the basics of Exploratory Data Analysis (EDA… sampling, feature engineering, correlation, etc.",
+    "link": "https://app.datacamp.com/learn/tutorials/exploratory-data-analysis-python"
+  },
+  "265": {
+    "titleS": "Step by Random Step: Exploring the Random Walk Model",
+    "categoryS": "Data Science",
+    "descS": "Examine the mathematical principles behind random …world phenomena in biology, physics, and finance.",
+    "link": "https://app.datacamp.com/learn/tutorials/random-walk"
+  },
+  "266": {
+    "titleS": "Python yield Keyword: What Is It and How to Use It?",
+    "categoryS": "Python",
+    "descS": "The yield keyword in Python turns a regular functi… on demand instead of computing them all at once.",
+    "link": "https://app.datacamp.com/learn/tutorials/yield-python-keyword"
+  },
+  "267": {
+    "titleS": "Python Append String: 6 Essential Concatenation Techniques",
+    "categoryS": "Python",
+    "descS": "Explore six key methods for string concatenation i…ght the syntax and application of each technique.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-append-string"
+  },
+  "268": {
+    "titleS": "Python's Walrus Operator: The Assignment Expression (Tutorial)",
+    "categoryS": "Python",
+    "descS": "Python's walrus operator := allows you to assign a value to a variable within an expression, combining assignment and use in a single step.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-walrus-operator"
+  },
+  "269": {
+    "titleS": "PySpark Joins: Optimize Big Data Join Performance",
+    "categoryS": "PySpark",
+    "descS": "Learn how to optimize PySpark joins, reduce shuffl…ig data pipelines and machine learning workflows.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-joins"
+  },
+  "270": {
+    "titleS": "Intro to Multiple Inheritance & super()",
+    "categoryS": "Python",
+    "descS": "A Pythonista's introductory guide to multiple inheritance, the super() function, & how to navigate the diamond problem.",
+    "link": "https://app.datacamp.com/learn/tutorials/super-multiple-inheritance-diamond-problem"
+  },
+  "271": {
+    "titleS": "Pip Python Tutorial for Package Management",
+    "categoryS": "Python",
+    "descS": "Learn about Pip, a powerful tool that helps you properly manage distribution packages in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/pip-python-package-manager"
+  },
+  "272": {
+    "titleS": "Keras Tutorial: Deep Learning in Python",
+    "categoryS": "Machine Learning",
+    "descS": "This Keras tutorial introduces you to deep learnin…ta, model, evaluate and optimize neural networks.",
+    "link": "https://app.datacamp.com/learn/tutorials/deep-learning-python"
+  },
+  "273": {
+    "titleS": "What is Boosting?",
+    "categoryS": "Machine Learning",
+    "descS": "Boosting improves machine learning performance by …d combining weak learners into strong predictors.",
+    "link": "https://app.datacamp.com/learn/tutorials/what-is-boosting"
+  },
+  "274": {
+    "titleS": "How to Delete a File in Python",
+    "categoryS": "Python",
+    "descS": "File management is a crucial aspect of code handli…in Python, along with best practices in doing so.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-delete-file"
+  },
+  "275": {
+    "titleS": "Troubleshooting the No module named 'sklearn' Error Message in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to quickly fix the ModuleNotFoundError: …n with our detailed, easy-to-follow online guide.",
+    "link": "https://www.datacamp.com/tutorial/troubleshooting-the-no-module-named-sklearn-error-message-in-python"
+  },
+  "276": {
+    "titleS": "Python Seaborn Line Plot Tutorial: Create Data Visualizations",
+    "categoryS": "Data Visualization",
+    "descS": "Discover how to use Seaborn, a popular Python data…ry, to create and customize line plots in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-seaborn-line-plot-tutorial"
+  },
+  "277": {
+    "titleS": "Test-Driven Development in Python: A Beginner's Guide",
+    "categoryS": "Python",
+    "descS": "Dive into test-driven development (TDD) with our c…bust tests before coding with practical examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/test-driven-development-in-python"
+  },
+  "278": {
+    "titleS": "Using GPT-3.5 and GPT-4 via the OpenAI API in Python",
+    "categoryS": "Artificial Intelligence",
+    "descS": "In this tutorial, you'll learn how to work with the OpenAI Python package to programmatically have conversations with ChatGPT.",
+    "link": "https://app.datacamp.com/learn/tutorials/using-gpt-models-via-the-openai-api-in-python"
+  },
+  "279": {
+    "titleS": "A Comprehensive Guide to Python Empty Lists",
+    "categoryS": "Python",
+    "descS": "Learn key list operations and use cases for empty lists in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-empty-list"
+  },
+  "280": {
+    "titleS": "How to Use the assert Statement in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Implementing the assert statement in Python is str… and display a message if the condition is false.",
+    "link": "https://app.datacamp.com/learn/tutorials/understanding-the-python-assert-statement"
+  },
+  "281": {
+    "titleS": "Benchmarking High-Performance pandas Alternatives",
+    "categoryS": "Python",
+    "descS": "Discover the latest benchmarking of Python's powerful pandas alternatives, Polars, Vaex, and Datatable. Discover their performance in data loading, grouping, sorting, and more.",
+    "link": "https://app.datacamp.com/learn/tutorials/benchmarking-high-performance-pandas-alternatives"
+  },
+  "282": {
+    "titleS": "Linear Search in Python: A Beginner's Guide with Examples",
+    "categoryS": "Data Science",
+    "descS": "Explore how linear search works and why it’s ideal…en to choose linear search over other algorithms.",
+    "link": "https://app.datacamp.com/learn/tutorials/linear-search-python"
+  },
+  "283": {
+    "titleS": "Apache Arrow: A Beginner’s Guide with Practical Examples",
+    "categoryS": "Data Engineering",
+    "descS": "This post demystifies Apache Arrow with Python exa…nd integrate it with tools like pandas and Spark.",
+    "link": "https://app.datacamp.com/learn/tutorials/apache-arrow"
+  },
+  "284": {
+    "titleS": "Introduction to GUI With Tkinter in Python",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you are going to learn how to cr…he elements needed to develop GUI apps in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/gui-tkinter-python"
+  },
+  "285": {
+    "titleS": "Claude Sonnet 3.5 API Tutorial: Getting Started With Anthropic's API",
+    "categoryS": "Artificial Intelligence",
+    "descS": "To connect through the Claude 3.5 Sonnet API, obta…sts and receive responses from Claude 3.5 Sonnet.",
+    "link": "https://app.datacamp.com/learn/tutorials/claude-sonnet-api-anthropic"
+  },
+  "286": {
+    "titleS": "Python List Size: 8 Different Methods for Finding the Length of a List in Python",
+    "categoryS": "Python",
+    "descS": "Compare between 8 different methods for finding the length of a list in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-list-size"
+  },
+  "287": {
+    "titleS": "Seaborn Color Palette: Quick Guide to Picking Colors",
+    "categoryS": "Data Analysis",
+    "descS": "Use color_palette() for clear categorical separati…g_palette() for clear divergence from a midpoint.",
+    "link": "https://app.datacamp.com/learn/tutorials/seaborn-palettes"
+  },
+  "288": {
+    "titleS": "Installing Anaconda on Mac OS X",
+    "categoryS": "Python",
+    "descS": "This tutorial will demonstrate how you can install…naconda, a powerful package manager, on your Mac.",
+    "link": "https://app.datacamp.com/learn/tutorials/installing-anaconda-mac-os-x"
+  },
+  "289": {
+    "titleS": "Precision-Recall Curve in Python Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how to implement and interpret precision-rec…hoose the right threshold to meet your objective.",
+    "link": "https://app.datacamp.com/learn/tutorials/precision-recall-curve-tutorial"
+  },
+  "290": {
+    "titleS": "Introduction to Factor Analysis in Python",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn the basics of factor analysis and how to implement it in python.",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-factor-analysis"
+  },
+  "291": {
+    "titleS": "Machine Learning with Python & Snowflake Cortex AI: A Guide",
+    "categoryS": "Machine Learning",
+    "descS": "Learn about Snowflake Cortex AI and how it can be used for LLMs and machine learning.",
+    "link": "https://app.datacamp.com/learn/tutorials/snowflake-cortex-ai"
+  },
+  "292": {
+    "titleS": "Writing Custom Context Managers in Python",
+    "categoryS": "Python",
+    "descS": "Learn the advanced aspects of resource management …y mastering how to write custom context managers.",
+    "link": "https://app.datacamp.com/learn/tutorials/writing-custom-context-managers-in-python"
+  },
+  "293": {
+    "titleS": "How to Drop Columns in Pandas Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how to drop columns in a pandas DataFrame.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-drop-column"
+  },
+  "294": {
+    "titleS": "Property vs. Getters and Setters in Python",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you will learn what the differen…is between Python Property and Getters & Setters.",
+    "link": "https://app.datacamp.com/learn/tutorials/property-getters-setters"
+  },
+  "295": {
+    "titleS": "PyTorch Lightning: A Comprehensive Hands-On Tutorial",
+    "categoryS": "Deep Learning",
+    "descS": "This comprehensive, hands-on tutorial teaches you …nt setup, model training, and practical examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/pytorch-lightning-tutorial"
+  },
+  "296": {
+    "titleS": "Hyperparameter Optimization in Machine Learning Models",
+    "categoryS": "Machine Learning",
+    "descS": "This tutorial covers what a parameter and a hyperp…tal in order to enhance your model’s performance.",
+    "link": "https://app.datacamp.com/learn/tutorials/parameter-optimization-machine-learning-models"
+  },
+  "297": {
+    "titleS": "NLP with PyTorch: A Comprehensive Guide",
+    "categoryS": "Python",
+    "descS": "Getting Started with NLP: A PyTorch Tutorial for Beginners",
+    "link": "https://app.datacamp.com/learn/tutorials/nlp-with-pytorch-a-comprehensive-guide"
+  },
+  "298": {
+    "titleS": "Choosing Python or R for Data Analysis? An Infographic",
+    "categoryS": "Data Analysis",
+    "descS": "Wondering whether you should use Python or R for data analysis? You’ve come to the right place.",
+    "link": "https://app.datacamp.com/learn/tutorials/r-or-python-for-data-analysis"
+  },
+  "299": {
+    "titleS": "DuckDB for Data Engineers: Speed Up Your Data Pipelines 10x and More",
+    "categoryS": "Data Engineering",
+    "descS": "DuckDB is a powerful analytical engine that lives …seconds. Follow this hands-on guide to learn how.",
+    "link": "https://app.datacamp.com/learn/tutorials/duckdb-to-speed-up-data-pipelines"
+  },
+  "300": {
+    "titleS": "How to Visualize Machine Learning Models: From Linear Regression to Neural Networks",
+    "categoryS": "Machine Learning",
+    "descS": "Machine learning is complex and often hard to wrap…ecisions the model makes when making predictions.",
+    "link": "https://app.datacamp.com/learn/tutorials/visualize-machine-learning-models"
+  },
+  "301": {
+    "titleS": "SettingWithCopyWarning in Pandas: How to Fix This Warning",
+    "categoryS": "Data Science",
+    "descS": "Learn how to fix Pandas' SettingWithCopyWarning: A value is trying to be set on a copy of a slice from a DataFrame.",
+    "link": "https://app.datacamp.com/learn/tutorials/settingwithcopywarning-pandas"
+  },
+  "302": {
+    "titleS": "Prompt Compression: A Guide With Python Examples",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Prompt compression is the process of reducing the …l to understand and generate a relevant response.",
+    "link": "https://app.datacamp.com/learn/tutorials/prompt-compression"
+  },
+  "303": {
+    "titleS": "How to Run Python in Tableau with TabPy: A Complete Guide",
+    "categoryS": "Python",
+    "descS": "Follow these steps to get started running Python s…ytical pipelines for your Tableau visualizations.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-run-python-in-tableau-with-tabpy"
+  },
+  "304": {
+    "titleS": "Pandas Reset Index Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn the pandas reset_index() method to reset the…t the index for simple and multi-level DataFrame.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-reset-index-tutorial"
+  },
+  "305": {
+    "titleS": "Essentials of Linear Regression in Python",
+    "categoryS": "Data Science",
+    "descS": "Learn what formulates a regression problem and how a linear regression algorithm works in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/essentials-linear-regression-python"
+  },
+  "306": {
+    "titleS": "GraphQL vs. REST: A Complete Guide",
+    "categoryS": "Data Engineering",
+    "descS": "Discover the distinct advantages of REST and Graph…ity of GraphQL for complex, real-time data needs.",
+    "link": "https://app.datacamp.com/learn/tutorials/graphql-vs-rest"
+  },
+  "307": {
+    "titleS": "Python Enumerate Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Discover what the Python enumerate function is and…can use it in your day-to-day data science tasks.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-enumerate-tutorial"
+  },
+  "308": {
+    "titleS": "Batch Normalization: Theory and TensorFlow Implementation",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Batch normalization standardizes mini-batch inputs…o stabilize and speed up neural network training.",
+    "link": "https://app.datacamp.com/learn/tutorials/batch-normalization-tensorflow"
+  },
+  "309": {
+    "titleS": "Python Dunder Methods: Special Commands Worth Knowing",
+    "categoryS": "Python",
+    "descS": "Learn how Python's double underscore methods allow your custom objects to work naturally with built-in operations, from printing to arithmetic. Discover how these magic methods simplify class design and unlock powerful behaviors.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dunder-methods"
+  },
+  "310": {
+    "titleS": "A Beginner’s Guide to the ElevenLabs API: Transform Text and Voice into Dynamic Audio Experiences",
+    "categoryS": "Machine Learning",
+    "descS": "Harness the capabilities of the ElevenLabs API, a …nto speech and clone voices with this technology.",
+    "link": "https://app.datacamp.com/learn/tutorials/beginners-guide-to-elevenlabs-api"
+  },
+  "311": {
+    "titleS": "Python Dictionaries Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how to create a dictionary in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dictionaries"
+  },
+  "312": {
+    "titleS": "Python Tuples Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn about Python tuples: what they are, how to c…rm on them and various functions you should know.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-tuples-tutorial"
+  },
+  "313": {
+    "titleS": "Finding the Size of a DataFrame in Python",
+    "categoryS": "Python",
+    "descS": "There are several ways to find the size of a DataF…o you’re sure to find a way that fits your needs.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dataframe-size"
+  },
+  "314": {
+    "titleS": "Python Feature Selection Tutorial: A Beginner's Guide",
+    "categoryS": "Python",
+    "descS": "Learn about the basics of feature selection and ho…e various feature selection techniques in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/feature-selection-python"
+  },
+  "315": {
+    "titleS": "18 Most Common Python List Questions",
+    "categoryS": "Data Analysis",
+    "descS": "Discover how to create a list in Python, select li…d() and extend(), why to use NumPy and much more.",
+    "link": "https://app.datacamp.com/learn/tutorials/18-most-common-python-list-questions-learn-python"
+  },
+  "316": {
+    "titleS": "Introduction to Machine Learning in Python",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you will be introduced to the wo…ithm called K-Nearest Neighbor (KNN) with Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-machine-learning-python"
+  },
+  "317": {
+    "titleS": "Python Details on Correlation Tutorial",
+    "categoryS": "Python",
+    "descS": "A tutorial to understand what correlation is and w…ant for every aspiring data scientist to know it.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-datails-on-correlation"
+  },
+  "318": {
+    "titleS": "Everything You Need to Know About Python's Maximum Integer Value",
+    "categoryS": "Data Analysis",
+    "descS": "Explore Python's maximum integer value, including system limits and the sys.maxsize attribute.",
+    "link": "https://www.datacamp.com/tutorial/everything-you-need-to-know-about-pythons-maximum-integer-value"
+  },
+  "319": {
+    "titleS": "How to Convert String to Bytes in Python",
+    "categoryS": "Data Science",
+    "descS": "In Python, use the .encode() method on a string to…ecifying the desired encoding (UTF-8 by default).",
+    "link": "https://app.datacamp.com/learn/tutorials/string-to-bytes-conversion"
+  },
+  "320": {
+    "titleS": "Unit Testing in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn what unit testing is, why its important, and how you can implement it with the help of Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/unit-testing-python"
+  },
+  "321": {
+    "titleS": "Distributed Processing using Ray framework in Python",
+    "categoryS": "Python",
+    "descS": "Unlocking the Power of Scalable Distributed Systems: A Guide to Ray Framework in Python",
+    "link": "https://app.datacamp.com/learn/tutorials/distributed-processing-using-ray-framework-in-python"
+  },
+  "322": {
+    "titleS": "Histograms in Matplotlib",
+    "categoryS": "Data Visualization",
+    "descS": "Learn about histograms and how you can use them to…n insights from data with the help of matplotlib.",
+    "link": "https://app.datacamp.com/learn/tutorials/histograms-matplotlib"
+  },
+  "323": {
+    "titleS": "40+ Python Statistics for Data Science Resources",
+    "categoryS": "Python",
+    "descS": "A list of Python resources for the eight statistic…cs that you need to know to excel in data science",
+    "link": "https://app.datacamp.com/learn/tutorials/python-statistics-data-science"
+  },
+  "324": {
+    "titleS": "Python's Ternary Operators Guide: Boosting Code Efficiency",
+    "categoryS": "Python",
+    "descS": "Learn how to enhance your Python coding skills usi…ips for streamlining your conditional statements.",
+    "link": "https://app.datacamp.com/learn/tutorials/pythons-ternary-operators-guide"
+  },
+  "325": {
+    "titleS": "PySide6 Tutorial: Building GUI Applications with Python",
+    "categoryS": "Python",
+    "descS": "Learn the basics of PySide6 to build your first de…ions from popular data science libraries into it.",
+    "link": "https://app.datacamp.com/learn/tutorials/introduct…pyside6-for-building-gui-applications-with-python"
+  },
+  "326": {
+    "titleS": "Python String format() Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn about string formatting in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-string-format"
+  },
+  "327": {
+    "titleS": "OpenCV Tutorial: Unlock the Power of Visual Data Processing",
+    "categoryS": "Machine Learning",
+    "descS": "This article provides a comprehensive guide on uti…m basic techniques to more advanced applications.",
+    "link": "https://app.datacamp.com/learn/tutorials/opencv-tutorial"
+  },
+  "328": {
+    "titleS": "Python FastHTML: A Beginner’s Guide with Examples",
+    "categoryS": "Python",
+    "descS": "Learn about FastHTML, a Python library for creatin… pages. Includes real-world application examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-fasthtml"
+  },
+  "329": {
+    "titleS": "PyCaret Tutorial: A beginner's guide for automating ML workflows using PyCaret",
+    "categoryS": "Machine Learning",
+    "descS": "PyCaret is an end-to-end machine learning and mode…e experiment cycle and makes you more productive.",
+    "link": "https://app.datacamp.com/learn/tutorials/guide-for-automating-ml-workflows-using-pycaret"
+  },
+  "330": {
+    "titleS": "Mastering the Pandas .explode() Method: A Comprehensive Guide",
+    "categoryS": "Python",
+    "descS": "Learn all you need to know about the pandas .explo…mon pitfalls with practical Python code examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-explode"
+  },
+  "331": {
+    "titleS": "Mean Shift Clustering: A Comprehensive Guide",
+    "categoryS": "Data Science",
+    "descS": "Discover the mean shift clustering algorithm, its …re it with K-means to understand key differences.",
+    "link": "https://app.datacamp.com/learn/tutorials/mean-shift-clustering"
+  },
+  "332": {
+    "titleS": "Mastering Shiny for Python: A Beginner’s Guide to Building Interactive Web Applications",
+    "categoryS": "Data Science",
+    "descS": "Explore the basics of Shiny for Python so you can …d web applications with this new library quickly!",
+    "link": "https://app.datacamp.com/learn/tutorials/mastering…rs-guide-to-building-interactive-web-applications"
+  },
+  "333": {
+    "titleS": "Python Sentiment Analysis Tutorial",
+    "categoryS": "Python",
+    "descS": "We help simplify sentiment analysis using Python i… the basics of NLP (natural language processing).",
+    "link": "https://app.datacamp.com/learn/tutorials/simplifying-sentiment-analysis-python"
+  },
+  "334": {
+    "titleS": "Python Copy List: What You Should Know",
+    "categoryS": "Data Analysis",
+    "descS": "Understand how to copy lists in Python. Learn how …r the difference between shallow and deep copies.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-copy-list"
+  },
+  "335": {
+    "titleS": "Python Plotly Express Tutorial: Unlock Beautiful Visualizations",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to create highly interactive and visually appealing charts with Python Plotly Express.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-plotly-express-tutorial"
+  },
+  "336": {
+    "titleS": "Python filter(): Keep What You Need",
+    "categoryS": "Python",
+    "descS": "Learn how to use Python's filter() function to extract items from lists or other iterables. Understand the key differences between filter and similar Python tools.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-filter"
+  },
+  "337": {
+    "titleS": "Python KeyError Exceptions and How to Fix Them",
+    "categoryS": "Data Analysis",
+    "descS": "Learn key techniques such as exception handling an…dle the KeyError exception in Python effectively.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-keyerror"
+  },
+  "338": {
+    "titleS": "Python Setup: The Definitive Guide",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn how to set up your computer for Python development, and explain the basics for having the best application lifecycle.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-developer-set-up"
+  },
+  "339": {
+    "titleS": "Fine-Tuning GPT-3 Using the OpenAI API and Python",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Unleash the full potential of GPT-3 through fine-t… neural network model for your specific use case.",
+    "link": "https://app.datacamp.com/learn/tutorials/fine-tuning-gpt-3-using-the-open-ai-api-and-python"
+  },
+  "340": {
+    "titleS": "Turning Machine Learning Models into APIs in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Learn to how to create a simple API from a machine learning model in Python using Flask.",
+    "link": "https://app.datacamp.com/learn/tutorials/machine-learning-models-api-python"
+  },
+  "341": {
+    "titleS": "PySpark: How to Drop a Column From a DataFrame",
+    "categoryS": "Big Data",
+    "descS": "In PySpark, we can drop one or more columns from a…\"column1\", \"column2\", ...]) for multiple columns.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-drop-column"
+  },
+  "342": {
+    "titleS": "LLM Classification: How to Select the Best LLM for Your Application",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Discover the family of LLMs available and the elem…aluating which LLM is the best for your use case.",
+    "link": "https://app.datacamp.com/learn/tutorials/llm-class…n-how-to-select-the-best-llm-for-your-application"
+  },
+  "343": {
+    "titleS": "Python Try-Except Tutorial: Best Practices and Real-World Examples",
+    "categoryS": "Python",
+    "descS": "Learn Python try-except with real-world examples, …Write cleaner, more reliable error-handling code.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-try-except"
+  },
+  "344": {
+    "titleS": "Python any() Function: Guide With Examples and Use Cases",
+    "categoryS": "Python",
+    "descS": "The any() function in Python returns True if at le…, tuple, set, etc.) is true, and False otherwise.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-any-function"
+  },
+  "345": {
+    "titleS": "High Performance Data Manipulation in Python: pandas 2.0 vs. polars",
+    "categoryS": "Data Science",
+    "descS": "Discover the main differences between Python’s pandas and polars libraries for data science",
+    "link": "https://app.datacamp.com/learn/tutorials/high-perf…nce-data-manipulation-in-python-pandas2-vs-polars"
+  },
+  "346": {
+    "titleS": "How to Use PySpark UDFs and Pandas UDFs Effectively",
+    "categoryS": "Data Engineering",
+    "descS": "Learn how to create, optimize, and use PySpark UDF…ations efficiently and improve Spark performance.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-udfs"
+  },
+  "347": {
+    "titleS": "Loguru Python Logging Tutorial: Zero Configuration Setup",
+    "categoryS": "Python",
+    "descS": "Learn Loguru, Python's easiest logging framework. Master file rotation, structured logging, exception handling, and custom sinks with zero configuration.",
+    "link": "https://app.datacamp.com/learn/tutorials/loguru-python-logging-tutorial"
+  },
+  "348": {
+    "titleS": "Pandas Iterate Over Rows: Handle Row-by-Row Operations",
+    "categoryS": "Python",
+    "descS": "Learn the various methods of iterating over rows i…rformance considerations, and everyday use cases.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-iterate-over-rows"
+  },
+  "349": {
+    "titleS": "How to Convert Bytes to String in Python",
+    "categoryS": "Python",
+    "descS": "To convert bytes to strings in Python, we can use …de() method, specifying the appropriate encoding.",
+    "link": "https://app.datacamp.com/learn/tutorials/bytes-to-string-python"
+  },
+  "350": {
+    "titleS": "Python Circular Import: Causes, Fixes, and Best Practices",
+    "categoryS": "Python",
+    "descS": "Learn what causes circular imports in Python, how …o detect, fix, and prevent them in real projects.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-circular-import"
+  },
+  "351": {
+    "titleS": "Understanding Chebyshev Distance: A Comprehensive Guide",
+    "categoryS": "Data Science",
+    "descS": "Learn how Chebyshev distance offers a unique appro…development with coding examples in Python and R.",
+    "link": "https://app.datacamp.com/learn/tutorials/chebyshev-distance"
+  },
+  "352": {
+    "titleS": "Dash for Beginners",
+    "categoryS": "Data Science",
+    "descS": "Learn how to build dashboards in Python using Dash.",
+    "link": "https://app.datacamp.com/learn/tutorials/learn-build-dash-python"
+  },
+  "353": {
+    "titleS": "Data Visualization with Tableau",
+    "categoryS": "Data Visualization",
+    "descS": "In this tutorial, you will learn how to analyze an…leau and make better, more data-driven decisions.",
+    "link": "https://app.datacamp.com/learn/tutorials/data-visualisation-tableau"
+  },
+  "354": {
+    "titleS": "PySpark Read CSV: Efficiently Load and Process Large Files",
+    "categoryS": "PySpark",
+    "descS": "Learn how to read CSV files efficiently in PySpark…tioning, and best practices for big data success.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-read-csv"
+  },
+  "355": {
+    "titleS": "Hierarchical indices, groupby and pandas",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you’ll learn about multi-indices… from groupby operations on real-world data sets.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-multi-index"
+  },
+  "356": {
+    "titleS": "Analyzing Complexity of Code through Python",
+    "categoryS": "Data Analysis",
+    "descS": "Get introduced to Asymptotic Analysis. Learn more … examples of complexity in a different algorithm.",
+    "link": "https://app.datacamp.com/learn/tutorials/analyzing-complexity-code-python"
+  },
+  "357": {
+    "titleS": "Groq LPU Inference Engine Tutorial",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn about the Groq API and its features with cod…I applications using the Groq API and LlamaIndex.",
+    "link": "https://app.datacamp.com/learn/tutorials/groq-lpu-inference"
+  },
+  "358": {
+    "titleS": "AdaBoost Classifier in Python",
+    "categoryS": "Python",
+    "descS": "Understand the ensemble approach, working of the A…ithm and learn AdaBoost model building in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/adaboost-classifier-python"
+  },
+  "359": {
+    "titleS": "Python String Tutorial",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn all about Python Strings: slicing and striding, manipulating and formatting them with the Formatter class, f-strings, templates and more!",
+    "link": "https://app.datacamp.com/learn/tutorials/python-string-tutorial"
+  },
+  "360": {
+    "titleS": "Inner Classes in Python",
+    "categoryS": "Python",
+    "descS": "In this basic Python tutorial, you'll learn about why and when you should use inner classes.",
+    "link": "https://app.datacamp.com/learn/tutorials/inner-classes-python"
+  },
+  "361": {
+    "titleS": "Optuna for Deep Reinforcement Learning in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Explore how to master hyperparameter tuning with O…runing techniques in deep reinforcement learning.",
+    "link": "https://app.datacamp.com/learn/tutorials/optuna"
+  },
+  "362": {
+    "titleS": "Cauchy Distribution: Understanding Heavy-Tailed Data",
+    "categoryS": "Data Science",
+    "descS": "Explore heavy-tailed distributions where tradition…treme events occur more frequently than expected.",
+    "link": "https://app.datacamp.com/learn/tutorials/cauchy-distribution"
+  },
+  "363": {
+    "titleS": "MySQL in Python Tutorial: Getting Started",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn how to install MySQL, create databases, and create tables, along with much more.",
+    "link": "https://app.datacamp.com/learn/tutorials/mysql-python"
+  },
+  "364": {
+    "titleS": "Plotly Shapes: A Guide to Annotating and Styling Plots",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to elevate your data storytelling with P…les and lines to advanced interactive geometries.",
+    "link": "https://app.datacamp.com/learn/tutorials/plotly-shapes-guide"
+  },
+  "365": {
+    "titleS": "Python String Contains",
+    "categoryS": "Python",
+    "descS": "",
+    "link": "https://app.datacamp.com/learn/tutorials/python-string-contains"
+  },
+  "366": {
+    "titleS": "How to Analyze Data in Google Sheets With Python: A Step-By-Step Guide",
+    "categoryS": "Spreadsheets",
+    "descS": "Boost your data analysis skills with our step-by-s…nd write back data in Google Sheets using Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-an…in-google-sheets-with-python-a-step-by-step-guide"
+  },
+  "367": {
+    "titleS": "Exploratory Data Analysis of Craft Beers: Data Profiling",
+    "categoryS": "Data Analysis",
+    "descS": "In this tutorial, you'll learn about exploratory data analysis (EDA) in Python, and more specifically, data profiling with pandas.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-data-profiling"
+  },
+  "368": {
+    "titleS": "Getting Started with TorchRL for Deep Reinforcement Learning",
+    "categoryS": "Artificial Intelligence",
+    "descS": "A beginner-friendly guide to TorchRL for deep rein…L agents with PyTorch through practical examples.",
+    "link": "https://app.datacamp.com/learn/tutorials/torchrl"
+  },
+  "369": {
+    "titleS": "Pandas Add Column Tutorial",
+    "categoryS": "Python",
+    "descS": "You are never stuck with just the data you are giv… Instead, you can add new columns to a DataFrame.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-add-column"
+  },
+  "370": {
+    "titleS": "How to Use the Python pass Statement",
+    "categoryS": "Data Analysis",
+    "descS": "Learn to use the Python pass statement in loops, functions, and classes. Understand the pass statement's importance in code execution and readability.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-pass"
+  },
+  "371": {
+    "titleS": "Definitive Guide: Threading in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn the basic concepts of threading and how you can use it with the help of Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/threading-in-python"
+  },
+  "372": {
+    "titleS": "Introduction to Customer Segmentation in Python",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you're going to learn how to implement customer segmentation using RFM(Recency, Frequency, Monetary) analysis from scratch in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-customer-segmentation-python"
+  },
+  "373": {
+    "titleS": "Python While Loops Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how while loop works in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-while-loop"
+  },
+  "374": {
+    "titleS": "How to Use the Python 'Not Equal' Operator",
+    "categoryS": "Python",
+    "descS": "Comparing values in Python to check if they are no…or, as well as alternatives for comparing floats.",
+    "link": "https://app.datacamp.com/learn/tutorials/not-equal-python"
+  },
+  "375": {
+    "titleS": "Investigating Tensors with PyTorch",
+    "categoryS": "Deep Learning",
+    "descS": "In this tutorial, you'll learn about Tensors, PyTorch, and how to create a simple neural network with PyTorch.",
+    "link": "https://app.datacamp.com/learn/tutorials/investigating-tensors-pytorch"
+  },
+  "376": {
+    "titleS": "Mastering PyCharm Tutorial",
+    "categoryS": "Data Science",
+    "descS": "The data scientist's comprehensive guide to mastering PyCharm",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-mastering-pycharm-tutorial"
+  },
+  "377": {
+    "titleS": "Gemini 1.5 Pro API Tutorial: Getting Started With Google's LLM",
+    "categoryS": "Artificial Intelligence",
+    "descS": "To connect to the Gemini 1.5 Pro API, obtain your … receive responses from the Gemini 1.5 Pro model.",
+    "link": "https://app.datacamp.com/learn/tutorials/gemini-pro-api-tutorial"
+  },
+  "378": {
+    "titleS": "Understanding Recursive Functions in Python",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, learn about the different aspect…ment a recursive function in Python from scratch.",
+    "link": "https://app.datacamp.com/learn/tutorials/understanding-recursive-functions-python"
+  },
+  "379": {
+    "titleS": "Apache Spark Tutorial: ML with PySpark",
+    "categoryS": "Data Science",
+    "descS": "Apache Spark tutorial introduces you to big data processing, analysis and ML with PySpark.",
+    "link": "https://app.datacamp.com/learn/tutorials/apache-spark-tutorial-machine-learning"
+  },
+  "380": {
+    "titleS": "Exploring Matplotlib Inline: A Quick Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how matplotlib inline can enable you to disp…ther libraries to create powerful visualizations.",
+    "link": "https://app.datacamp.com/learn/tutorials/exploring-matplotlib-inline-a-quick-tutorial"
+  },
+  "381": {
+    "titleS": "Geocoding for Data Scientists: An Introduction With Examples",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you will learn three different w… address into latitude and longitude using Geopy.",
+    "link": "https://app.datacamp.com/learn/tutorials/geocoding-for-data-scientists"
+  },
+  "382": {
+    "titleS": "Data Preparation with pandas",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you will learn why it is important to pre-process data and how to do it in pandas.",
+    "link": "https://app.datacamp.com/learn/tutorials/data-preparation-with-pandas"
+  },
+  "383": {
+    "titleS": "Introduction to Geospatial Data in Python",
+    "categoryS": "Data Visualization",
+    "descS": "In this tutorial, you will use geospatial data to …cane Florence from August 30th to September 18th.",
+    "link": "https://app.datacamp.com/learn/tutorials/geospatial-data-python"
+  },
+  "384": {
+    "titleS": "Argument Parsing in Python",
+    "categoryS": "Python",
+    "descS": "In this tutorial, learn how to parse one or more a…inal using the getopt, sys, and argparse modules.",
+    "link": "https://app.datacamp.com/learn/tutorials/argument-parsing-in-python"
+  },
+  "385": {
+    "titleS": "SARSA Reinforcement Learning Algorithm in Python: A Full Guide",
+    "categoryS": "Machine Learning",
+    "descS": "Learn SARSA, an on-policy reinforcement learning a…practical Python examples and its implementation.",
+    "link": "https://app.datacamp.com/learn/tutorials/sarsa-reinforcement-learning-algorithm-in-python"
+  },
+  "386": {
+    "titleS": "Logging in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn about the fundamentals of Logging in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/logging-in-python"
+  },
+  "387": {
+    "titleS": "Graph Optimization with NetworkX in Python",
+    "categoryS": "Data Science",
+    "descS": "This NetworkX tutorial will show you how to do gra…by solving the Chinese Postman Problem in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/networkx-python-graph-tutorial"
+  },
+  "388": {
+    "titleS": "Visualizing Data with Python and Tableau Tutorial",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how you can use Python to extend Tableau's data visualization capabilities.",
+    "link": "https://app.datacamp.com/learn/tutorials/visualizing-data-with-python-and-tableau-tutorial"
+  },
+  "389": {
+    "titleS": "Kaggle Tutorial: Your First Machine Learning Model",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how to build your first machine learning mod…age, submit it to Kaggle and see how it performs!",
+    "link": "https://app.datacamp.com/learn/tutorials/kaggle-tutorial-machine-learning"
+  },
+  "390": {
+    "titleS": "How to Write Memory-Efficient Classes in Python",
+    "categoryS": "Data Science",
+    "descS": "Learn about memory management in Python with advan…lore practical exercises for optimal performance.",
+    "link": "https://app.datacamp.com/learn/tutorials/write-memory-efficient-classes-in-python"
+  },
+  "391": {
+    "titleS": "Mastering PySpark’s groupBy for Scalable Data Aggregation",
+    "categoryS": "PySpark",
+    "descS": "Explore PySpark’s groupBy method, which allows dat…datasets, leveraging Spark’s powerful techniques.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-groupby"
+  },
+  "392": {
+    "titleS": "Python Lists Tutorial",
+    "categoryS": "Data Science",
+    "descS": "A list is a compound data type where you can group… information altogether rather than individually.",
+    "link": "https://app.datacamp.com/learn/tutorials/lists-python"
+  },
+  "393": {
+    "titleS": "How to Use Python to Scrape Amazon",
+    "categoryS": "Python",
+    "descS": "Learn about web scraping with python and how to sc…zon, with the help of the Beautiful Soup library.",
+    "link": "https://app.datacamp.com/learn/tutorials/amazon-web-scraping-using-beautifulsoup"
+  },
+  "394": {
+    "titleS": "Metaflow Tutorial for Beginners: Build and Scale Data Workflows",
+    "categoryS": "MLOps",
+    "descS": "This beginner-friendly tutorial will guide you thr…fies building and scaling data science workflows.",
+    "link": "https://app.datacamp.com/learn/tutorials/metaflow"
+  },
+  "395": {
+    "titleS": "Web Scraping & NLP in Python",
+    "categoryS": "Data Science",
+    "descS": "Learn to scrape novels from the web and plot word …Python packages requests, BeautifulSoup and nltk.",
+    "link": "https://app.datacamp.com/learn/tutorials/web-scraping-python-nlp"
+  },
+  "396": {
+    "titleS": "Building and Deploying Machine Learning Pipelines",
+    "categoryS": "Machine Learning",
+    "descS": "Discover everything you need to know about Kubeflo…ow to build and deploy Machine Learning Pipelines",
+    "link": "https://app.datacamp.com/learn/tutorials/kubeflow-…building-and-deploying-machine-learning-pipelines"
+  },
+  "397": {
+    "titleS": "Working with Zip Files in Python",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you are going to learn how to wo…file module. zipfile is a Python built-in module.",
+    "link": "https://app.datacamp.com/learn/tutorials/zip-file"
+  },
+  "398": {
+    "titleS": "Python Classes Tutorial",
+    "categoryS": "Python",
+    "descS": "In Python, everything is an object. Numbers, strin…s, a blueprint associated with it under the hood.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-classes"
+  },
+  "399": {
+    "titleS": "Asyncio: An Introduction",
+    "categoryS": "Python",
+    "descS": "A short introduction to asynchronous I/O with the asyncio package.",
+    "link": "https://app.datacamp.com/learn/tutorials/asyncio-introduction"
+  },
+  "400": {
+    "titleS": "Textacy: An Introduction to Text Data Cleaning and Normalization in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Discover how Textacy, a Python library, simplifies… compares to other libraries like NLTK and spaCy.",
+    "link": "https://app.datacamp.com/learn/tutorials/textacy-text-data-cleaning-normalization-python"
+  },
+  "401": {
+    "titleS": "Customer Lifetime Value",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, learn how to calculate Customer Lifetime Value in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/customer-life-time-value"
+  },
+  "402": {
+    "titleS": "PySpark Filter Tutorial: Techniques, Performance Tips, and Use Cases",
+    "categoryS": "PySpark",
+    "descS": "Learn efficient PySpark filtering techniques with …partition pruning, and advanced filter functions.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-filter"
+  },
+  "403": {
+    "titleS": "Python String Replace Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn to find and replace strings using regular expressions in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-string-replace"
+  },
+  "404": {
+    "titleS": "Master PySpark withColumn() for DataFrame Column Transformations",
+    "categoryS": "PySpark",
+    "descS": "Learn how to effectively use PySpark withColumn() …. Covers syntax, performance, and best practices.",
+    "link": "https://app.datacamp.com/learn/tutorials/pyspark-withcolumn"
+  },
+  "405": {
+    "titleS": "Connecting MongoDB to Python: Your First 10 Minutes With PyMongo",
+    "categoryS": "MongoDB",
+    "descS": "Learn what PyMongo is, why Python developers use i…ow to quickly connect MongoDB to your Python app.",
+    "link": "https://app.datacamp.com/learn/tutorials/connecting-mongodb-to-python"
+  },
+  "406": {
+    "titleS": "Mojo Language: The New Programming Language for AI",
+    "categoryS": "Artificial Intelligence",
+    "descS": "An overview of a new programming language that is as simple as Python and as fast as Rust.",
+    "link": "https://app.datacamp.com/learn/tutorials/mojo-language-the-new-programming-language-for-ai"
+  },
+  "407": {
+    "titleS": "Emulating a Do-While Loop in Python: A Comprehensive Guide for Beginners",
+    "categoryS": "Python",
+    "descS": "Explore how to emulate a \"do-while\" loop in Python…lus discover how to use it in data science tasks.",
+    "link": "https://app.datacamp.com/learn/tutorials/do-while-loop-python"
+  },
+  "408": {
+    "titleS": "Importing and Writing Text Files in Python",
+    "categoryS": "Python",
+    "descS": "This article covers different ways to import text …. It also covers how to convert these into lists.",
+    "link": "https://app.datacamp.com/learn/tutorials/reading-writing-files-python"
+  },
+  "409": {
+    "titleS": "MongoDB Tutorial: How to Set Up and Query MongoDB Databases",
+    "categoryS": "Data Engineering",
+    "descS": "Learn how to connect and analyze MongoDB databases in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/mongodb-tutorial-how-to-set-up-and-query-mongodb-databases"
+  },
+  "410": {
+    "titleS": "Python Absolute Value: A Quick Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how to use Python's abs function to get a number's magnitude, ignoring its sign. This guide explains finding absolute values for both real and imaginary numbers, highlighting common errors.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-absolute-value-a-quick-tutorial"
+  },
+  "411": {
+    "titleS": "Boosting Your Data Science Workflow with Dask: A Comprehensive Guide",
+    "categoryS": "Python",
+    "descS": "Learn how Dask revolutionizes data processing with parallelism and lazy evaluation.",
+    "link": "https://app.datacamp.com/learn/tutorials/boosting-…-science-workflow-with-dask-a-comprehensive-guide"
+  },
+  "412": {
+    "titleS": "Latent Semantic Analysis using Python",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you will learn how to discover t…cuments using Latent Semantic Analysis in python.",
+    "link": "https://app.datacamp.com/learn/tutorials/discovering-hidden-topics-python"
+  },
+  "413": {
+    "titleS": "Groupby, split-apply-combine and pandas",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn how to use the pandas groupby operation, which draws from the well-known split-apply-combine strategy, on Netflix movie data.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-split-apply-combine-groupby"
+  },
+  "414": {
+    "titleS": "Virtual Environment in Python",
+    "categoryS": "Python",
+    "descS": "this tutorial, you'll learn about the Virtual Environment and two different ways of creating it.",
+    "link": "https://app.datacamp.com/learn/tutorials/virtual-environment-in-python"
+  },
+  "415": {
+    "titleS": "Time Series Analysis Tutorial with Python",
+    "categoryS": "Data Science",
+    "descS": "Get Google Trends data of keywords such as 'diet' and 'gym' and see how they vary over time while learning about trends and seasonality in time series data.",
+    "link": "https://app.datacamp.com/learn/tutorials/time-series-analysis-tutorial"
+  },
+  "416": {
+    "titleS": "Introduction to Python IDLE Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn what is Python IDLE (Integrated Development …arious features for writing your Python programs.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-IDLE"
+  },
+  "417": {
+    "titleS": "Dropout Regularization Using PyTorch: A Hands-On Guide",
+    "categoryS": "Python",
+    "descS": "Learn the concepts behind dropout regularization, …e need it, and how to implement it using PyTorch.",
+    "link": "https://app.datacamp.com/learn/tutorials/dropout-regularization-using-pytorch-guide"
+  },
+  "418": {
+    "titleS": "Scipy Tutorial: Vectors and Arrays (Linear Algebra)",
+    "categoryS": "Data Science",
+    "descS": "A SciPy tutorial in which you'll learn the basics of linear algebra that you need for machine learning in Python, with a focus how to with NumPy.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-scipy-tutorial"
+  },
+  "419": {
+    "titleS": "Python Datetime Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how to create a datetime object.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-datetime"
+  },
+  "420": {
+    "titleS": "Python len(): A Beginner’s Guide to Counting Elements in Python",
+    "categoryS": "Python",
+    "descS": "Learn how to use the Python len() function to quic…o avoid when working with len() in your own code.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-len"
+  },
+  "421": {
+    "titleS": "Sorting in Python Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Discover what the sort method is and how to do it.",
+    "link": "https://app.datacamp.com/learn/tutorials/sorting-in-python"
+  },
+  "422": {
+    "titleS": "How to Use SQLite in Python",
+    "categoryS": "Data Analysis",
+    "descS": "In this tutorial, you will learn about using SQLit…nal database management system (RDBMS) in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/sqlite-in-python"
+  },
+  "423": {
+    "titleS": "Machine Learning with Kaggle: Feature Engineering",
+    "categoryS": "Machine Learning",
+    "descS": "Learn how feature engineering can help you to up y…create new columns, transform variables and more!",
+    "link": "https://app.datacamp.com/learn/tutorials/feature-engineering-kaggle"
+  },
+  "424": {
+    "titleS": "Machine Learning Basics - The Norms",
+    "categoryS": "Machine Learning",
+    "descS": "Learn linear algebra through code and visualization.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-machine-learning-basics-norms"
+  },
+  "425": {
+    "titleS": "Pandas Apply Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn what Python pandas .apply is and how to use …ver DataFrames using the .apply() function today!",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-apply"
+  },
+  "426": {
+    "titleS": "DBSCAN: A Macroscopic Investigation in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Cluster analysis is an important problem in data a…pression patterns, or various other applications.",
+    "link": "https://app.datacamp.com/learn/tutorials/dbscan-macroscopic-investigation-python"
+  },
+  "427": {
+    "titleS": "How to Document Python Code",
+    "categoryS": "Data Science",
+    "descS": "Learn why there is a need for documenting code and…ial of the Pydoc module for documenting purposes.",
+    "link": "https://app.datacamp.com/learn/tutorials/documenting-python-code"
+  },
+  "428": {
+    "titleS": "How to Fix builtin_function_or_method' object is not subscriptable",
+    "categoryS": "Python",
+    "descS": "To fix the 'builtin_function_or_method' object is not subscriptable error, ensure you are calling the function or method with parentheses () instead of square brackets [].",
+    "link": "https://www.datacamp.com/tutorial/python-builtin-function-or-method-object-is-not-subscriptable"
+  },
+  "429": {
+    "titleS": "Diving Deep with Imbalanced Data",
+    "categoryS": "Machine Learning",
+    "descS": "Learn the techniques to deal with an imbalanced dataset.",
+    "link": "https://app.datacamp.com/learn/tutorials/diving-deep-imbalanced-data"
+  },
+  "430": {
+    "titleS": "TPOT in Python",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you will learn how to use a very… with the best performing machine learning model.",
+    "link": "https://app.datacamp.com/learn/tutorials/tpot-machine-learning-python"
+  },
+  "431": {
+    "titleS": "Getting Started with Claude 3 and the Claude 3 API",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Learn about the Claude 3 models, detailed performa…xt, accessing vision capabilities, and streaming.",
+    "link": "https://app.datacamp.com/learn/tutorials/getting-started-with-claude-3-and-the-claude-3-api"
+  },
+  "432": {
+    "titleS": "Social Network Analysis in Python",
+    "categoryS": "Data Analysis",
+    "descS": "Networks today are part of our everyday life. Let's learn how to visualize and understand a social network in Python using Networks.",
+    "link": "https://app.datacamp.com/learn/tutorials/social-network-analysis-python"
+  },
+  "433": {
+    "titleS": "Kaggle Tutorial: EDA & Machine Learning",
+    "categoryS": "Data Science",
+    "descS": "In this Kaggle tutorial, you'll learn how to approach and build supervised learning models with the help of exploratory data analysis (EDA) on the Titanic data.",
+    "link": "https://app.datacamp.com/learn/tutorials/kaggle-machine-learning-eda"
+  },
+  "434": {
+    "titleS": "A Deep Dive into the Phi-2 Model",
+    "categoryS": "Python",
+    "descS": "Understanding the Phi-2 model and learning how to …ess and fine-tune it using the role-play dataset.",
+    "link": "https://app.datacamp.com/learn/tutorials/phi-2-model"
+  },
+  "435": {
+    "titleS": "Reading and Editing PDF’s and Word Documents From Python",
+    "categoryS": "Python",
+    "descS": "This tutorial will allow you to read PDF documents…how to read and write word documents from Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/reading-and-editing-pdfs-and-word-documents-from-python"
+  },
+  "436": {
+    "titleS": "Making Web Crawlers Using Scrapy for Python",
+    "categoryS": "Data Science",
+    "descS": "Develop web crawlers with Scrapy, a powerful frame…for extracting, processing, and storing web data.",
+    "link": "https://app.datacamp.com/learn/tutorials/making-web-crawlers-scrapy-python"
+  },
+  "437": {
+    "titleS": "String Split in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how you can perform various operations on st…nctions like split, join and regular expressions.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-string-split"
+  },
+  "438": {
+    "titleS": "An End-to-End ML Model Monitoring Workflow with NannyML in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Learn an end-to-end workflow to monitor any model …your Jupyter notebook in production environments.",
+    "link": "https://app.datacamp.com/learn/tutorials/model-monitoring-with-nannyml-in-python"
+  },
+  "439": {
+    "titleS": "Weighted Average Formula: A Complete Guide with Practical Applications",
+    "categoryS": "Python",
+    "descS": "Learn the essential statistical concept that gives…ysis, with hands-on examples in Excel and Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/weighted-average-formula"
+  },
+  "440": {
+    "titleS": "Introduction to Python Metaclasses",
+    "categoryS": "Python",
+    "descS": "In this tutorial, learn what metaclasses are, how …nt them in Python, and how to create custom ones.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-metaclasses"
+  },
+  "441": {
+    "titleS": "Moving Averages in pandas",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how you can capture trends and make sense ou…ata with the help of a moving or rolling average.",
+    "link": "https://app.datacamp.com/learn/tutorials/moving-averages-in-pandas"
+  },
+  "442": {
+    "titleS": "Python String Interpolation: A Beginner's Guide",
+    "categoryS": "Python",
+    "descS": "Learn about Python string interpolation, its purpo…. Includes practical examples and best practices.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-string-interpolation"
+  },
+  "443": {
+    "titleS": "Deploy your Facebook Messenger Bot with Python",
+    "categoryS": "Data Science",
+    "descS": "A step-by-step guide to easily deploying a Faceboo…bot with Python, using Flask, requests and ngrok.",
+    "link": "https://app.datacamp.com/learn/tutorials/facebook-chatbot-python-deploy"
+  },
+  "444": {
+    "titleS": "Setup a Data Science Environment on your Computer",
+    "categoryS": "Data Science",
+    "descS": "Learn about the various options you have to setup …n, R, Git, and Unix Shell on your local computer.",
+    "link": "https://app.datacamp.com/learn/tutorials/setup-data-science-environment"
+  },
+  "445": {
+    "titleS": "Scikit-Learn Tutorial: Baseball Analytics Pt 1",
+    "categoryS": "Data Science",
+    "descS": "A scikit-learn tutorial to predicting MLB wins per…ns clustering model and linear regression models.",
+    "link": "https://app.datacamp.com/learn/tutorials/scikit-learn-tutorial-baseball-1"
+  },
+  "446": {
+    "titleS": "Type Checking in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn about type checking, different types of the …nguages along with duck typing, and type hinting.",
+    "link": "https://app.datacamp.com/learn/tutorials/type-checking-in-python"
+  },
+  "447": {
+    "titleS": "Preprocessing in Data Science (Part 1): Centering, Scaling, and KNN",
+    "categoryS": "Data Science",
+    "descS": "This article will explain the importance of prepro…tering and scaling can improve model performance.",
+    "link": "https://app.datacamp.com/learn/tutorials/preproces…-in-data-science-part-1-centering-scaling-and-knn"
+  },
+  "448": {
+    "titleS": "Analyzing Poker Hands with Python",
+    "categoryS": "Python",
+    "descS": "Analyze poker hands with Python and easily impleme…tations, (in)dependent events and expected value.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-probability-tutorial"
+  },
+  "449": {
+    "titleS": "Implementing Autoencoders in Keras: Tutorial",
+    "categoryS": "Deep Learning",
+    "descS": "In this tutorial, you'll learn more about autoencoders and how to build convolutional and denoising autoencoders with the notMNIST dataset in Keras.",
+    "link": "https://app.datacamp.com/learn/tutorials/autoencoder-keras-tutorial"
+  },
+  "450": {
+    "titleS": "Deploying a Web App with Bokeh Tutorial",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to create and deploy a stock price compa…n skills to create a practical, interactive tool.",
+    "link": "https://app.datacamp.com/learn/tutorials/tutorial-bokeh-web-app-deployment"
+  },
+  "451": {
+    "titleS": "Altair in Python Tutorial: Data Visualizations",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to create data visualizations in Python using Altair and a Movies Dataset.",
+    "link": "https://app.datacamp.com/learn/tutorials/altair-in-python"
+  },
+  "452": {
+    "titleS": "Recommendation System for Streaming Platforms Tutorial",
+    "categoryS": "Data Science",
+    "descS": "In this Python tutorial, explore movie data of pop…ming platforms and build a recommendation system.",
+    "link": "https://app.datacamp.com/learn/tutorials/streaming-platform-analysis"
+  },
+  "453": {
+    "titleS": "RMSprop Optimizer Tutorial: Intuition and Implementation in Python",
+    "categoryS": "Machine Learning",
+    "descS": "Learn about the RMSprop optimization algorithm, it…onal gradient descent for machine learning tasks.",
+    "link": "https://app.datacamp.com/learn/tutorials/rmsprop-optimizer-tutorial"
+  },
+  "454": {
+    "titleS": "Pandas Drop Duplicates Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how to drop duplicates in Python using pandas.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-drop-duplicates"
+  },
+  "455": {
+    "titleS": "Predicting Employee Churn in Python",
+    "categoryS": "Python",
+    "descS": "Analyze employee churn. Find out why employees are… and learn to predict who will leave the company.",
+    "link": "https://app.datacamp.com/learn/tutorials/predicting-employee-churn-python"
+  },
+  "456": {
+    "titleS": "Python Descriptors Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn what Python Descriptors are, when you should use them, and why you should use them.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-descriptors"
+  },
+  "457": {
+    "titleS": "Stocks, Significance Testing & p-Hacking",
+    "categoryS": "Data Science",
+    "descS": "Learn how to manipulate time series data with pand…using Python, to analyze stock market volatility.",
+    "link": "https://app.datacamp.com/learn/tutorials/stocks-significance-testing-p-hacking"
+  },
+  "458": {
+    "titleS": "Detecting Fake News with Scikit-Learn",
+    "categoryS": "Data Science",
+    "descS": "This scikit-learn tutorial will walk you through b…news classifier with the help of Bayesian models.",
+    "link": "https://app.datacamp.com/learn/tutorials/scikit-learn-fake-news"
+  },
+  "459": {
+    "titleS": "How to Execute Python/R in SQL Tutorial",
+    "categoryS": "SQL",
+    "descS": "Discover how to execute Python and R in SQL and un…achine learning possibilities for your databases.",
+    "link": "https://app.datacamp.com/learn/tutorials/how-to-execute-pythonr-in-sql-tutorial"
+  },
+  "460": {
+    "titleS": "Autoencoder as a Classifier using Fashion-MNIST Dataset Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you will learn & understand how to use autoencoder as a classifier in Python with Keras. You'll be using Fashion-MNIST dataset as an example.",
+    "link": "https://app.datacamp.com/learn/tutorials/autoencoder-classifier-python"
+  },
+  "461": {
+    "titleS": "Snowflake Arctic Tutorial: Getting Started With Snowflake's LLM",
+    "categoryS": "Artificial Intelligence",
+    "descS": "Snowflake Arctic is a family of enterprise-grade l…deployment of AI within the Snowflake Data Cloud.",
+    "link": "https://app.datacamp.com/learn/tutorials/snowflake-arctic-tutorial"
+  },
+  "462": {
+    "titleS": "Introducing Python Magic Methods",
+    "categoryS": "Python",
+    "descS": "Discover what magic methods is while looking at the difference between methods and functions.",
+    "link": "https://app.datacamp.com/learn/tutorials/introducing-python-magic-methods"
+  },
+  "463": {
+    "titleS": "Scraping Reddit with Python and BeautifulSoup 4",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you'll learn how to get web pages using requests, analyze web pages in the browser, and extract information from raw HTML with BeautifulSoup.",
+    "link": "https://app.datacamp.com/learn/tutorials/scraping-reddit-python-scrapy"
+  },
+  "464": {
+    "titleS": "Preprocessing in Data Science (Part 2): Centering, Scaling and Logistic Regression",
+    "categoryS": "Machine Learning",
+    "descS": "Discover whether centering and scaling help your model in a logistic regression setting.",
+    "link": "https://app.datacamp.com/learn/tutorials/preproces…-part-2-centering-scaling-and-logistic-regression"
+  },
+  "465": {
+    "titleS": "Google Cloud for Data Science: Beginner's Guide",
+    "categoryS": "Data Science",
+    "descS": "Learn to set up a data science environment on Goog…gine, install Anaconda and run Jupyter notebooks!",
+    "link": "https://app.datacamp.com/learn/tutorials/google-cloud-data-science"
+  },
+  "466": {
+    "titleS": "Python lambda Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn a quicker way of writing functions on the fly with lambda functions.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-lambda"
+  },
+  "467": {
+    "titleS": "K Means Clusters in Tableau with TabPy Tutorial",
+    "categoryS": "Data Science",
+    "descS": "Learn the importance of TabPy and how to create a … clustering model using Python script in Tableau.",
+    "link": "https://app.datacamp.com/learn/tutorials/getting-started-with-tabpy"
+  },
+  "468": {
+    "titleS": "Codestral API Tutorial: Getting Started With Mistral’s API",
+    "categoryS": "Artificial Intelligence",
+    "descS": "To connect to the Codestral API, obtain your API k… (either codestral.mistral.ai or api.mistral.ai).",
+    "link": "https://app.datacamp.com/learn/tutorials/codestral-api-tutorial"
+  },
+  "469": {
+    "titleS": "Fine-Tune and Run Inference on Google's Gemma Model Using TPUs for Enhanced Speed and Performance",
+    "categoryS": "Python",
+    "descS": "Learn to infer and fine-tune LLMs with TPUs and im…lelism for distributed training on 8 TPU devices.",
+    "link": "https://www.datacamp.com/tutorial/combine-google-gemma-with-tpus-fine-tune-and-run-inference-with-enhanced-performance-and-speed"
+  },
+  "470": {
+    "titleS": "Deploying Python Functions and Prophet Forecasting Model in Tableau with TabPy",
+    "categoryS": "Data Science",
+    "descS": "Learn advanced Python scripting in Tableau by depl…r and creating dynamic time series visualization.",
+    "link": "https://app.datacamp.com/learn/tutorials/tabpy-tut…ng-python-functions-and-prophet-forecasting-model"
+  },
+  "471": {
+    "titleS": "Action Value Function: A Guide With Python Examples",
+    "categoryS": "Artificial Intelligence",
+    "descS": "This post breaks down the action-value function, a…lementing it using Q-learning and DQNs in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/action-value-function"
+  },
+  "472": {
+    "titleS": "Estimating The Cost of GPT Using The tiktoken Library in Python",
+    "categoryS": "Python",
+    "descS": "Learn to manage GPT model costs with tiktoken in P…PE, and estimate OpenAI API expenses efficiently.",
+    "link": "https://app.datacamp.com/learn/tutorials/estimating-cost-of-gpt-using-tiktoken-library-python"
+  },
+  "473": {
+    "titleS": "5 Tips to Write Idiomatic Pandas Code",
+    "categoryS": "Data Science",
+    "descS": "This tutorial covers 5 ways in which you can easily write pandorable or more idiomatic Pandas code.",
+    "link": "https://app.datacamp.com/learn/tutorials/pandas-idiomatic"
+  },
+  "474": {
+    "titleS": "Introduction to Cyclical Learning Rates",
+    "categoryS": "Data Visualization",
+    "descS": "Learn what cyclical learning rate policy is and how it can improve the training of a neural network.",
+    "link": "https://app.datacamp.com/learn/tutorials/cyclical-learning-neural-nets"
+  },
+  "475": {
+    "titleS": "Viewing 3D Volumetric Data With Matplotlib",
+    "categoryS": "Data Visualization",
+    "descS": "In this Python tutorial, you'll make use of Matplotlib's event handler API to display the slices of an MRI dataset.",
+    "link": "https://app.datacamp.com/learn/tutorials/matplotlib-3d-volumetric-data"
+  },
+  "476": {
+    "titleS": "How to Create a Histogram with Plotly",
+    "categoryS": "Data Visualization",
+    "descS": "Learn how to implement histograms in Python using the Plotly data visualization library.",
+    "link": "https://app.datacamp.com/learn/tutorials/create-histogram-plotly"
+  },
+  "477": {
+    "titleS": "Poker Probability and Statistics with Python",
+    "categoryS": "Data Science",
+    "descS": "Tackle probability and statistics in Python: learn…ndent and independent events, and expected value.",
+    "link": "https://app.datacamp.com/learn/tutorials/statistics-python-tutorial-probability-1"
+  },
+  "478": {
+    "titleS": "Data Visualization with Bokeh Tutorial: Getting Started",
+    "categoryS": "Data Science",
+    "descS": "Learn the important basics and installation process of Bokeh",
+    "link": "https://app.datacamp.com/learn/tutorials/Introduction-to-bokeh-tutorial"
+  },
+  "479": {
+    "titleS": "Random Number Generator Using Numpy Tutorial",
+    "categoryS": "Python",
+    "descS": "Numpy's random module, a suite of functions based on pseudorandom number generation. Random means something that can not be predicted logically.",
+    "link": "https://app.datacamp.com/learn/tutorials/numpy-random"
+  },
+  "480": {
+    "titleS": "Python Count Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn how to use the counter tool with an interactive example.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-count"
+  },
+  "481": {
+    "titleS": "How to Install and Use Homebrew",
+    "categoryS": "Data Science",
+    "descS": "Discover Homebrew for data science. Learn how you …e technologies such as Apache Spark and Graphviz.",
+    "link": "https://app.datacamp.com/learn/tutorials/homebrew-install-use"
+  },
+  "482": {
+    "titleS": "NumPy 2.0 Release: Key Changes and Migration",
+    "categoryS": "Python",
+    "descS": "Find out all the new features and changes made in the NumPy 2.0 update.",
+    "link": "https://app.datacamp.com/learn/tutorials/numpy-2-release"
+  },
+  "483": {
+    "titleS": "Custom Templates for Jupyter Notebooks with Jinja2",
+    "categoryS": "Data Science",
+    "descS": "Learn how to create custom export templates for your Jupyter Notebooks using Jinja2.",
+    "link": "https://app.datacamp.com/learn/tutorials/jinja2-custom-export-templates-jupyter"
+  },
+  "484": {
+    "titleS": "How to Import JSON and HTML Data into pandas",
+    "categoryS": "Python",
+    "descS": "To be an adept data scientist, one must know how t… formats of data like JSON and HTML using pandas.",
+    "link": "https://app.datacamp.com/learn/tutorials/importing-data-into-pandas"
+  },
+  "485": {
+    "titleS": "MeetUp API",
+    "categoryS": "Python",
+    "descS": "In this tutorial, you’ll learn how to pull data di…etUp’s API using Python and write it into a JSON.",
+    "link": "https://app.datacamp.com/learn/tutorials/meetup-api-data-json"
+  },
+  "486": {
+    "titleS": "Using Python to Power Spreadsheets in Data Science",
+    "categoryS": "Python",
+    "descS": "Learn how Python can be used more effectively than Excel, with the Pandas package.",
+    "link": "https://app.datacamp.com/learn/tutorials/power-spreadsheets-python"
+  },
+  "487": {
+    "titleS": "Demystifying Crucial Statistics in Python",
+    "categoryS": "Data Science",
+    "descS": "Learn about the basic statistics required for Data Science and Machine Learning in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/demystifying-crucial-statistics-python"
+  },
+  "488": {
+    "titleS": "Python Global Interpreter Lock Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn what Global Interpreter Lock is, how it works, and why you should use it.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-global-interpreter-lock"
+  },
+  "489": {
+    "titleS": "Generating Realistic Random Datasets with Trumania",
+    "categoryS": "Python",
+    "descS": "Discover Python Trumania, a scenario-based random …and random dataset in this step-by-step tutorial.",
+    "link": "https://app.datacamp.com/learn/tutorials/generate-data-trumania"
+  },
+  "490": {
+    "titleS": "Reconstructing Brain MRI Images Using Deep Learning (Convolutional Autoencoder)",
+    "categoryS": "Deep Learning",
+    "descS": "In this tutorial, you'll learn & understand how to read nifti format brain magnetic resonance imaging (MRI) images, reconstructing them using convolutional autoencoder.",
+    "link": "https://app.datacamp.com/learn/tutorials/reconstructing-brain-images-deep-learning"
+  },
+  "491": {
+    "titleS": "Data Science for Search Engine Marketing (SEM)",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, data science meets Search Engine…generating keywords and ad templates with Python!",
+    "link": "https://app.datacamp.com/learn/tutorials/sem-data-science"
+  },
+  "492": {
+    "titleS": "Leveraging the Best of both Python and R",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to use Python and R in conjunction with …he best of both in a single data science project.",
+    "link": "https://app.datacamp.com/learn/tutorials/using-both-python-r"
+  },
+  "493": {
+    "titleS": "Overview of Atom IDE",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn the importance of IDEs, how to set-up Atom, and download packages.",
+    "link": "https://app.datacamp.com/learn/tutorials/ide-atom"
+  },
+  "494": {
+    "titleS": "Beginner's Guide to Google's Vision API in Python",
+    "categoryS": "Python",
+    "descS": "Learn what Vision API is and what are all the thin…ow you can call Vision API from your Python code.",
+    "link": "https://app.datacamp.com/learn/tutorials/beginner-guide-google-vision-api"
+  },
+  "495": {
+    "titleS": "Scikit-Learn Tutorial: Baseball Analytics Pt 2",
+    "categoryS": "Data Science",
+    "descS": "A Scikit-Learn tutorial to using logistic regressi…eball players will be voted into the Hall of Fame",
+    "link": "https://app.datacamp.com/learn/tutorials/scikit-learn-tutorial-baseball-2"
+  },
+  "496": {
+    "titleS": "Usage of Asterisks in Python",
+    "categoryS": "Data Science",
+    "descS": "Many Python users are familiar with using asterisk…out additional ways on how to apply the asterisk.",
+    "link": "https://app.datacamp.com/learn/tutorials/usage-asterisks-python"
+  },
+  "497": {
+    "titleS": "Quadrant Analysis in Tableau",
+    "categoryS": "Data Analysis",
+    "descS": "Learn how to analyze data in the form of a dynamic quadrant chart in Tableau.",
+    "link": "https://app.datacamp.com/learn/tutorials/quadrant-analysis-in-tableau"
+  },
+  "498": {
+    "titleS": "Reconstructing Fingerprint Images Using Deep Learning (Convolutional Autoencoder)",
+    "categoryS": "Deep Learning",
+    "descS": "In this tutorial, you will learn and understand ho…onstructing them using convolutional autoencoder.",
+    "link": "https://app.datacamp.com/learn/tutorials/fingerprint-deep-learning"
+  },
+  "499": {
+    "titleS": "Remote Python and R in SQL",
+    "categoryS": "Data Science",
+    "descS": "Learn how to remotely send R and Python execution to a SQL Server from Jupyter Notebooks.",
+    "link": "https://app.datacamp.com/learn/tutorials/remote-python-sql"
+  },
+  "500": {
+    "titleS": "Using Regular Expressions to Clean Strings",
+    "categoryS": "Data Science",
+    "descS": "This tutorial takes course material from DataCamp's Cleaning Data in Python course and allows you to clean strings using regular expressions.",
+    "link": "https://app.datacamp.com/learn/tutorials/regular-expressions-clean-strings"
+  },
+  "501": {
+    "titleS": "Introduction to H2O AutoML",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you will learn about H2O and have a glimpse of its autoML functionality.",
+    "link": "https://app.datacamp.com/learn/tutorials/h2o-automl"
+  },
+  "502": {
+    "titleS": "Comparison of BI and Analytics Platforms",
+    "categoryS": "Data Analysis",
+    "descS": "In this tutorial, you will learn about different f…rm both at the organization and individual level.",
+    "link": "https://app.datacamp.com/learn/tutorials/bi-analytics-platform"
+  },
+  "503": {
+    "titleS": "Using TensorFlow 2.0 to Compose Music Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you will learn how to train generative models to compose music in TensorFlow 2.0.",
+    "link": "https://app.datacamp.com/learn/tutorials/using-tensorflow-to-compose-music"
+  },
+  "504": {
+    "titleS": "Machine Learning with Black Friday Dataset Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you will gain knowledge on filli…sionality using PCA, and split data using K-Fold.",
+    "link": "https://app.datacamp.com/learn/tutorials/ml-black-friday-dataset"
+  },
+  "505": {
+    "titleS": "Image Super-Resolution using Multi-Decoder Framework Tutorial",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you’ll implement a medical imaging using deep learning paper with Python in Keras.",
+    "link": "https://app.datacamp.com/learn/tutorials/learning-decode-reconstruction-3t-mr"
+  },
+  "506": {
+    "titleS": "Automated Machine Learning with Auto-Keras",
+    "categoryS": "Machine Learning",
+    "descS": "Learn about automated machine learning and how it can be done with auto-keras.",
+    "link": "https://app.datacamp.com/learn/tutorials/automated-machine-learning-auto-keras"
+  },
+  "507": {
+    "titleS": "Preprocessing in Data Science (Part 3): Scaling Synthesized Data",
+    "categoryS": "Machine Learning",
+    "descS": "You can preprocess the heck out of your data but t…e pudding: how well does your model then perform?",
+    "link": "https://app.datacamp.com/learn/tutorials/preproces…g-in-data-science-part-3-scaling-synthesized-data"
+  },
+  "508": {
+    "titleS": "Implementing Neural Style Transfer Using TensorFlow 2.0",
+    "categoryS": "Deep Learning",
+    "descS": "In this tutorial, you'll learn how to implement power applications like Prisma using TensorFlow 2.0.",
+    "link": "https://app.datacamp.com/learn/tutorials/implementing-neural-style-transfer-using-tensorflow"
+  },
+  "509": {
+    "titleS": "Absolute and Weighted Frequency of Words in Text",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you'll learn about absolute and weighted word frequency in text mining and how to calculate it with defaultdict and pandas DataFrames.",
+    "link": "https://app.datacamp.com/learn/tutorials/absolute-weighted-word-frequency"
+  },
+  "510": {
+    "titleS": "How to Execute Python/R in SQL",
+    "categoryS": "Data Science",
+    "descS": "After reading this tutorial, you'll know how to embed R & Python scripts in T-SQL statements & know what data types are used to pass data between SQL & Python/R.",
+    "link": "https://app.datacamp.com/learn/tutorials/execute-r-python-sql"
+  },
+  "511": {
+    "titleS": "Web Scraping and Parsing Data in R | Exploring H-1b Data Pt. 1",
+    "categoryS": "Data Science",
+    "descS": "Learn how to scrape data from the web, preprocess … perform a basic exploratory data analysis with R",
+    "link": "https://app.datacamp.com/learn/tutorials/exploring-h-1b-data-with-r"
+  },
+  "512": {
+    "titleS": "Detecting True and Deceptive Hotel Reviews using Machine Learning",
+    "categoryS": "Machine Learning",
+    "descS": "In this tutorial, you’ll use a machine learning al…n, extract labels, use dataframes and a lot more!",
+    "link": "https://app.datacamp.com/learn/tutorials/machine-learning-hotel-reviews"
+  },
+  "513": {
+    "titleS": "Ten Important Updates from TensorFlow 2.0",
+    "categoryS": "Machine Learning",
+    "descS": "Go through the ten most important updates introduc…low 2.0, and learn how to implement some of them.",
+    "link": "https://app.datacamp.com/learn/tutorials/ten-important-updates-tensorflow"
+  },
+  "514": {
+    "titleS": "Python Dictionary Tutorial",
+    "categoryS": "Data Science",
+    "descS": "In this Python tutorial, you'll learn how to create a dictionary, load data in it, filter, get and sort the values, and perform other dictionary operations.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-dictionary-tutorial"
+  },
+  "515": {
+    "titleS": "Lists: N-Sized Chunks",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you shall work with lists and le…itrarily sized lists into chunks of a given size.",
+    "link": "https://app.datacamp.com/learn/tutorials/lists-n-sized-chunks"
+  },
+  "516": {
+    "titleS": "Introduction to MongoDB and Python",
+    "categoryS": "Data Science",
+    "descS": "In this tutorial, you'll learn how to integrate MongoDB with your Python applications.",
+    "link": "https://app.datacamp.com/learn/tutorials/introduction-mongodb-python"
+  },
+  "517": {
+    "titleS": "Python Dictionaries Tutorial: The Definitive Guide",
+    "categoryS": "Python",
+    "descS": "Learn all about the Python Dictionary and its pote…ow to create word frequency using the Dictionary.",
+    "link": "https://app.datacamp.com/learn/tutorials/dictionary-python"
+  },
+  "518": {
+    "titleS": "Tuples in Python Tutorial",
+    "categoryS": "Python",
+    "descS": "Learn to use and unpack Tuples in Python.",
+    "link": "https://app.datacamp.com/learn/tutorials/python-tuples"
+  },
+  "519": {
+    "titleS": "Python Tutorial for Beginners",
+    "categoryS": "Data Science",
+    "descS": "Get a step-by-step guide on how to install Python and use it for basic data science functions.",
+    "link": "https://app.datacamp.com/learn/tutorials/python"
+  },
+  "520": {
+    "titleS": "Python For Data Science - A Cheat Sheet For Beginners",
+    "categoryS": "Data Science",
+    "descS": "This handy one-page reference presents the Python basics that you need to do data science",
+    "link": "https://app.datacamp.com/learn/tutorials/python-data-science-cheat-sheet-basics"
+  },
+  "521": {
+    "titleS": "Text Data In Python Cheat Sheet",
+    "categoryS": "CheatSheet-Python",
+    "descS": "Welcome to our cheat sheet for working with text data in Python! We've compiled a list of the most useful functions and packages for cleaning, processing, and analyzing text data in Python, along with clear examples and explanations, so you'll have everything you need to start developing!",
+    "link": "https://www.datacamp.com/cheat-sheet/text-data-in-python-cheat-sheet"
+  },
+  "522": {
+    "titleS": "Python Cheat Sheet for Beginners",
+    "categoryS": "CheatSheet-Python",
+    "descS": "Python is the most popular programming language in data science. Use this cheat sheet to jumpstart your Python learning journey.",
+    "link": "https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet"
+  },
+  "523": {
+    "titleS": "Plotly Express Cheat Sheet",
+    "categoryS": "CheatSheet-Python",
+    "descS": "Plotly is one of the most widely used data visualization packages in Python. Learn more about it in this cheat sheet.",
+    "link": "https://www.datacamp.com/cheat-sheet/plotly-express-cheat-sheet"
+  },
+  "524": {
+    "titleS": "Working with Dates and Times in Python Cheat Sheet",
+    "categoryS": "CheatSheet-Python",
+    "descS": "Working with dates and times is essential when manipulating data in Python. Learn the basics of working with datetime data in this cheat sheet.",
+    "link": "https://www.datacamp.com/cheat-sheet/working-with-dates-and-times-in-python-cheat-sheet"
+  },
+  "525": {
+    "titleS": "PySpark Cheat Sheet: Spark in Python",
+    "categoryS": "CheatSheet-Python",
+    "descS": "This PySpark cheat sheet with code samples covers the basics like initializing Spark in Python, loading data, sorting, and repartitioning.",
+    "link": "https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python"
+  },
+  "526": {
+    "titleS": "SciPy Cheat Sheet: Linear Algebra in Python",
+    "categoryS": "CheatSheet-Python",
+    "descS": "This Python cheat sheet is a handy reference with code samples for doing linear algebra with SciPy and interacting with NumPy.",
+    "link": "https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python"
+  },
+  "527": {
+    "titleS": "Python Data Visualization: Bokeh Cheat Sheet",
+    "categoryS": "CheatSheet-Python",
+    "descS": "A handy cheat sheet for interactive plotting and statistical charts with Bokeh.",
+    "link": "https://www.datacamp.com/cheat-sheet/python-data-visualization-bokeh-cheat-sheet"
+  },
+  "528": {
+    "titleS": "NumPy Cheat Sheet: Data Analysis in Python",
+    "categoryS": "CheatSheet-Python",
+    "descS": "This Python cheat sheet is a quick reference for NumPy beginners.",
+    "link": "https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python"
+  },
+  "529": {
+    "titleS": "Jupyter Notebook Cheat Sheet",
+    "categoryS": "CheatSheet-Python",
+    "descS": "This Jupyter Notebook cheat sheet will help you to find your way around the well-known Notebook App, a subproject of Project Jupyter.",
+    "link": "https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet"
+  },
+  "530": {
+    "titleS": "Pandas Cheat Sheet: Data Wrangling in Python",
+    "categoryS": "CheatSheet-Python",
+    "descS": "This cheat sheet is a quick reference for data wrangling with Pandas, complete with code samples.",
+    "link": "https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-data-wrangling-in-python"
+  },
+  "531": {
+    "titleS": "Matplotlib Cheat Sheet: Plotting in Python",
+    "categoryS": "CheatSheet-Python",
+    "descS": "This Matplotlib cheat sheet introduces you to the basics that you need to plot your data with Python and includes code samples.",
+    "link": "https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python"
+  },
+  "532": {
+    "titleS": "Pandas Cheat Sheet for Data Science in Python",
+    "categoryS": "CheatSheet-Python",
+    "descS": "A quick guide to the basics of the Python data analysis library Pandas, including code samples.",
+    "link": "https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python"
+  },
+  "533": {
+    "titleS": "Python For Data Science Cheat Sheet For Beginners",
+    "categoryS": "CheatSheet-Python",
+    "descS": "This cheat sheet covers the basics that you need to know to do data science with Python",
+    "link": "https://www.datacamp.com/cheat-sheet/python-for-data-science-cheat-sheet-for-beginners"
+  },
+  "534": {
+    "titleS": "Conda Cheat Sheet",
+    "categoryS": "CheatSheet-DataScience",
+    "descS": "In this cheat sheet, learn all about the basics of working with Conda. From managing and installing packages, to working with channels & environments, learn the fundamentals of the conda package management tool suite.",
+    "link": "https://www.datacamp.com/cheat-sheet/conda-cheat-sheet"
+  },
+  "535": {
+    "titleS": "Regular Expressions Cheat Sheet",
+    "categoryS": "CheatSheet-DataScience",
+    "descS": "Regular expressions (regex or regexp) are a pattern of characters that describe an amount of text. Regular expressions are one of the most widely used tools in natural language processing and allow you to supercharge common text data manipulation tasks.",
+    "link": "https://www.datacamp.com/cheat-sheet/regular-expresso"
+  },
+  "536": {
+    "titleS": "Python for Data Science - A Cheat Sheet for Beginners",
+    "categoryS": "CheatSheet-DataScience",
+    "descS": "This handy one-page reference presents the Python basics that you need to do data science",
+    "link": "https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners"
+  },
+  "537": {
+    "titleS": "Keras Cheat Sheet: Neural Networks in Python",
+    "categoryS": "CheatSheet-MachineLearning",
+    "descS": "Make your own neural networks with this Keras cheat sheet to deep learning in Python for beginners, with code samples.",
+    "link": "https://www.datacamp.com/cheat-sheet/keras-cheat-sheet-neural-networks-in-python"
+  },
+  "538": {
+    "titleS": "Scikit-Learn Cheat Sheet: Python Machine Learning",
+    "categoryS": "CheatSheet-MachineLearning",
+    "descS": "A handy scikit-learn cheat sheet to machine learning with Python, including some code examples.",
+    "link": "https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning"
+  },
+  "539": {
+    "titleS": "Deep Learning with PyTorch Cheat Sheet",
+    "categoryS": "CheatSheet-DeepLearning",
+    "descS": "Learn everything you need to know about PyTorch in this convenient cheat sheet",
+    "link": "https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch"
+  },
+  "540": {
+    "titleS": "PySpark Cheat Sheet: Spark DataFrames in Python",
+    "categoryS": "CheatSheet-BigData",
+    "descS": "This PySpark SQL cheat sheet is your handy companion to Apache Spark DataFrames in Python and includes code samples.",
+    "link": "https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python"
+  },
+  "541": {
+    "titleS": "Python Seaborn Cheat Sheet",
+    "categoryS": "CheatSheet-DataAnalysis",
+    "descS": "This Python Seaborn cheat sheet with code samples guides you through the data visualization library that is based on Matplotlib.",
+    "link": "https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet"
+  },
+  "542": {
+    "titleS": "Importing Data in Python Cheat Sheet",
+    "categoryS": "CheatSheet-DataAnalysis",
+    "descS": "With this Python cheat sheet, you'll have a handy reference guide to importing your data, from flat files to files native to other software and relational databases.",
+    "link": "https://www.datacamp.com/cheat-sheet/importing-data-in-python-cheat-sheet"
+  },
+  "543": {
+    "titleS": "The OpenAI API in Python",
+    "categoryS": "CheatSheet-AI",
+    "descS": "ChatGPT and large language models have taken the world by storm. In this cheat sheet, learn the basics on how to leverage one of the most powerful AI APIs out there, then OpenAI API.",
+    "link": "https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python"
+  },
+  "544": {
+    "titleS": "spaCy Cheat Sheet: Advanced NLP in Python",
+    "categoryS": "CheatSheet-AI",
+    "descS": "Check out the first official spaCy cheat sheet! A handy two-page reference to the most important concepts and features.",
+    "link": "https://www.datacamp.com/cheat-sheet/spacy-cheat-sheet-advanced-nlp-in-python"
+  }
+}
