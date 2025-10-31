@@ -1,43 +1,43 @@
 {
    "1000": {
     "titleS": "Setting Up VSCode For Python: A Complete Guide",
-    "categoryS": "Pathacks : Development Environment & Tools (Setup First)",
+    "categoryS": "1. Pathacks : Development Environment & Tools (Setup First)",
     "descS": "Experience a simple, fun, and productive way of Py…ng about VSCode and its extensionsn and features.",
     "link": "https://app.datacamp.com/learn/tutorials/setting-up-vscode-python"
   },
   "1001": {
     "titleS": "Introduction to Python IDLE Tutorial",
-    "categoryS": "Pathacks : Development Environment & Tools (Setup First)",
+    "categoryS": "1. Pathacks : Development Environment & Tools (Setup First)",
     "descS": "Learn what is Python IDLE (Integrated Development …arious features for writing your Python programs.",
     "link": "https://app.datacamp.com/learn/tutorials/python-IDLE"
   },
   "1002": {
     "titleS": "How to Upgrade Python and Pip in Windows, MacOS, and Linux",
-    "categoryS": "Pathacks : Development Environment & Tools (Setup First)",
+    "categoryS": "1. Pathacks : Development Environment & Tools (Setup First)",
     "descS": "Read our step-by-step instructions for how to upgr… Keep your environment up-to-date and compatible.",
     "link": "https://app.datacamp.com/learn/tutorials/pip-upgrade-python"
   },
   "1003": {
     "titleS": "Virtual Environment in Python",
-    "categoryS": "Pathacks : Development Environment & Tools (Setup First)",
+    "categoryS": "1. Pathacks : Development Environment & Tools (Setup First)",
     "descS": "this tutorial, you'll learn about the Virtual Environment and two different ways of creating it.",
     "link": "https://app.datacamp.com/learn/tutorials/virtual-environment-in-python"
   },
   "1004": {
     "titleS": "How to Use Jupyter Notebooks: The Ultimate Guide",
-    "categoryS": "Pathacks : Development Environment & Tools (Setup First)",
+    "categoryS": "1. Pathacks : Development Environment & Tools (Setup First)",
     "descS": "This article covers what Notebooks are and why you…also covers tips, tricks, and keyboard shortcuts.",
     "link": "https://app.datacamp.com/learn/tutorials/tutorial-jupyter-notebook"
   },
   "1005": {
     "titleS": "How to Use Pip Package Manager",
-    "categoryS": "Pathacks : Development Environment & Tools (Setup First)",
+    "categoryS": "1. Pathacks : Development Environment & Tools (Setup First)",
     "descS": "Learn about pip, the standard tool to install Python packages and manage dependencies.",
     "link": "https://app.datacamp.com/learn/tutorials/pip-python-package-manager"
   },
   "1006": {
     "titleS": "How to Use Python Poetry for Dependency Management",
-    "categoryS": "Pathacks : Development Environment & Tools (Setup First)",
+    "categoryS": "1. Pathacks : Development Environment & Tools (Setup First)",
     "descS": "Learn modern and efficient Python environment and dependency management with Poetry.",
     "link": "https://app.datacamp.com/learn/tutorials/python-poetry"
   },
@@ -51,43 +51,43 @@
 
   "1007": {
     "titleS": "Python Hello World: A Beginner’s Guide to Programming",
-    "categoryS": "Pathacks : Introduction & Foundations (Core Programming Basics)",
+    "categoryS": "2. Pathacks : Introduction & Foundations (Core Programming Basics)",
     "descS": "Learn the fundamentals of Python by running the print(“Hello World”) program.",
     "link": "https://app.datacamp.com/learn/tutorials/python-hello-world-a-beginners-guide-to-programming"
   },
   "1008": {
     "titleS": "Python Tutorial for Beginners",
-    "categoryS": "Pathacks : Introduction & Foundations (Core Programming Basics)",
+    "categoryS": "2. Pathacks : Introduction & Foundations (Core Programming Basics)",
     "descS": "Get a step-by-step guide on how to install Python and use it for basic data science functions.",
     "link": "https://app.datacamp.com/learn/tutorials/python"
   },
   "1009": {
     "titleS": "Python Data Structures Tutorial",
-    "categoryS": "Pathacks : Introduction & Foundations (Core Programming Basics)",
+    "categoryS": "2. Pathacks : Introduction & Foundations (Core Programming Basics)",
     "descS": "Get introduced to Python data structures: learn mo… structures, such as strings, lists, stacks, etc.",
     "link": "https://app.datacamp.com/learn/tutorials/data-structures-python"
   },
   "1010": {
     "titleS": "Python Loops Tutorial",
-    "categoryS": "Pathacks : Introduction & Foundations (Core Programming Basics)",
+    "categoryS": "2. Pathacks : Introduction & Foundations (Core Programming Basics)",
     "descS": "A comprehensive introductory tutorial to Python lo…d continue keywords, the range function and more!",
     "link": "https://app.datacamp.com/learn/tutorials/loops-python-tutorial"
   },
   "1011": {
     "titleS": "Python IF, ELIF, and ELSE Statements",
-    "categoryS": "Pathacks : Introduction & Foundations (Core Programming Basics)",
+    "categoryS": "2. Pathacks : Introduction & Foundations (Core Programming Basics)",
     "descS": "In this tutorial, you will learn exclusively about Python if else statements.",
     "link": "https://app.datacamp.com/learn/tutorials/python-if-elif-else"
   },
   "1012": {
     "titleS": "Python Functions: How to Call & Write Functions",
-    "categoryS": "Pathacks : Introduction & Foundations (Core Programming Basics)",
+    "categoryS": "2. Pathacks : Introduction & Foundations (Core Programming Basics)",
     "descS": "Discover how to write reusable and efficient Pytho…code better with main() and other best practices.",
     "link": "https://app.datacamp.com/learn/tutorials/functions-python-tutorial"
   },
   "1013": {
     "titleS": "Python Variables & Data Types",
-    "categoryS": "Pathacks : Introduction & Foundations (Core Programming Basics)",
+    "categoryS": "2. Pathacks : Introduction & Foundations (Core Programming Basics)",
     "descS": "Understand Python’s variable assignment and most used data types.",
     "link": "https://app.datacamp.com/learn/tutorials/python-data-types"
   },
@@ -103,61 +103,61 @@
 
   "1015": {
     "titleS": "Python Lists Tutorial",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "A list is a compound data type where you can group… information altogether rather than individually.",
     "link": "https://app.datacamp.com/learn/tutorials/lists-python"
   },
   "1016": {
     "titleS": "Python Dictionary Tutorial",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "In this Python tutorial, you'll learn how to create a dictionary, load data in it, filter, get and sort the values, and perform other dictionary operations.",
     "link": "https://app.datacamp.com/learn/tutorials/python-dictionary-tutorial"
   },
   "1017": {
     "titleS": "Python String Tutorial",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "In this tutorial, you'll learn all about Python Strings: slicing and striding, manipulating and formatting them with the Formatter class, f-strings, templates and more!",
     "link": "https://app.datacamp.com/learn/tutorials/python-string-tutorial"
   },
   "1018": {
     "titleS": "Python Tuples Tutorial",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "Learn about Python tuples: what they are, how to c…rm on them and various functions you should know.",
     "link": "https://app.datacamp.com/learn/tutorials/python-tuples-tutorial"
   },
   "1019": {
     "titleS": "Python Scope & LEGB Rule",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "Learn what variable scopes are all about and get f…o see the global and nonlocal keywords in action.",
     "link": "https://app.datacamp.com/learn/tutorials/scope-of-variables-python"
   },
   "1020": {
     "titleS": "Exception Handling & Try-Except in Python",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "Learn key techniques such as exception handling an…dle the KeyError exception in Python effectively.",
     "link": "https://app.datacamp.com/learn/tutorials/python-keyerror"
   },
   "1021": {
     "titleS": "Commenting Code in Python",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "Best practices for comments in Python, including block and inline comments.",
     "link": "https://app.datacamp.com/learn/tutorials/python-block-comment"
   },
   "1022": {
     "titleS": "Python Lambda Functions: A Beginner’s Guide",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "Learn about Python lambda functions, their purpose… and best practices for effective implementation.",
     "link": "https://app.datacamp.com/learn/tutorials/python-lambda-functions"
   },
   "1023": {
     "titleS": "Python Switch Case Statement: A Beginner's Guide",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "Explore Python's match-case: a guide on its syntax, applications in data science, ML, and a comparative analysis with traditional switch-case.",
     "link": "https://app.datacamp.com/learn/tutorials/python-switch-case"
   },
   "1024": {
     "titleS": "Python String Contains",
-    "categoryS": "Pathacks : Core Programming Skills (Expand Knowledge)",
+    "categoryS": "3. Pathacks : Core Programming Skills (Expand Knowledge)",
     "descS": "Learn various ways to check if a substring exists in a string.",
     "link": "https://app.datacamp.com/learn/tutorials/python-string-contains"
   },
@@ -173,37 +173,37 @@
 
   "1025": {
     "titleS": "Importing and Writing Text Files in Python",
-    "categoryS": "Pathacks : Basic Data Handling & Input/Output",
+    "categoryS": "4. Pathacks : Basic Data Handling & Input/Output",
     "descS": "This article covers different ways to import text …. It also covers how to convert these into lists.",
     "link": "https://app.datacamp.com/learn/tutorials/reading-writing-files-python"
   },
   "1026": {
     "titleS": "Python JSON Data: A Guide With Examples",
-    "categoryS": "Pathacks : Basic Data Handling & Input/Output",
+    "categoryS": "4. Pathacks : Basic Data Handling & Input/Output",
     "descS": "Learn how to work with JSON in Python, including s…nderstanding JSON’s limitations and alternatives.",
     "link": "https://app.datacamp.com/learn/tutorials/json-data-python"
   },
   "1027": {
     "titleS": "Python Excel: A Guide With Examples",
-    "categoryS": "Pathacks : Basic Data Handling & Input/Output",
+    "categoryS": "4. Pathacks : Basic Data Handling & Input/Output",
     "descS": "Learn how to read and import Excel files in Python…eadsheets, and find the best packages to do this.",
     "link": "https://app.datacamp.com/learn/tutorials/python-excel-tutorial"
   },
   "1028": {
     "titleS": "pandas read_csv() Tutorial: Importing Data",
-    "categoryS": "Pathacks : Basic Data Handling & Input/Output",
+    "categoryS": "4. Pathacks : Basic Data Handling & Input/Output",
     "descS": "Importing data is the first step in any data scien…prefer the pandas read_csv() function to do this.",
     "link": "https://app.datacamp.com/learn/tutorials/pandas-read-csv"
   },
   "1029": {
     "titleS": "How to Import JSON and HTML Data into pandas",
-    "categoryS": "Pathacks : Basic Data Handling & Input/Output",
+    "categoryS": "4. Pathacks : Basic Data Handling & Input/Output",
     "descS": "To be an adept data scientist, one must know how t… formats of data like JSON and HTML using pandas.",
     "link": "https://app.datacamp.com/learn/tutorials/importing-data-into-pandas"
   },
   "1030": {
     "titleS": "Loguru Python Logging Tutorial: Zero Configuration Setup",
-    "categoryS": "Pathacks : Basic Data Handling & Input/Output",
+    "categoryS": "4. Pathacks : Basic Data Handling & Input/Output",
     "descS": "Learn Loguru, Python's easiest logging framework. Master file rotation, structured logging, exception handling, and custom sinks with zero configuration.",
     "link": "https://app.datacamp.com/learn/tutorials/loguru-python-logging-tutorial"
   },
@@ -221,31 +221,31 @@
 
   "1031": {
      "titleS": "Python Turtle Graphics: A Fun Way to Learn the Basics",
-    "categoryS": "Pathacks : Introductory Projects & Practical Skills",
+    "categoryS": "5. Pathacks : Introductory Projects & Practical Skills",
     "descS": "Discover how to create simple to complex graphics …d creative designs while mastering Python basics.",
     "link": "https://app.datacamp.com/learn/tutorials/turtle-graphics"
   },
   "1032": {
     "titleS": "Fibonacci Sequence in Python: Learn and Explore Coding Techniques",
-    "categoryS": "Pathacks : Introductory Projects & Practical Skills",
+    "categoryS": "5. Pathacks : Introductory Projects & Practical Skills",
     "descS": "Discover how the Fibonacci sequence works. Explore…hematical properties and real-world applications.",
     "link": "https://app.datacamp.com/learn/tutorials/fibonacci-sequence-python"
   },
   "1033": {
     "titleS": "Python f-string: A Complete Guide",
-    "categoryS": "Pathacks : Introductory Projects & Practical Skills",
+    "categoryS": "5. Pathacks : Introductory Projects & Practical Skills",
     "descS": "Master Python's f-strings, the most elegant way to handle string formatting in your code. This guide covers everything from basic syntax to advanced techniques. Learn how to write cleaner, more maintainable code with real-world examples.",
     "link": "https://app.datacamp.com/learn/tutorials/python-f-string"
   },
   "1034": {
     "titleS": "How to Use Python Decorators (With Function and Class-Based Examples)",
-    "categoryS": "Pathacks : Introductory Projects & Practical Skills",
+    "categoryS": "5. Pathacks : Introductory Projects & Practical Skills",
     "descS": "Learn Python decorators with hands-on examples. Un…orators, and how to write reusable, elegant code.",
     "link": "https://app.datacamp.com/learn/tutorials/decorators-python"
   },
   "1035": {
     "titleS": "Simple API Requests with Python (HTTP Requests)",
-    "categoryS": "Pathacks : Introductory Projects & Practical Skills",
+    "categoryS": "5. Pathacks : Introductory Projects & Practical Skills",
     "descS": "Getting started with Python HTTP requests for REST APIs.",
     "link": "https://app.datacamp.com/learn/tutorials/making-http-requests-in-python"
   },
@@ -260,19 +260,19 @@
 
   "1036": {
     "titleS": "Object-Oriented Programming in Python (OOP): Tutorial",
-    "categoryS": "Pathacks : Fundamentals of Object-Oriented Programming & Modules",
+    "categoryS": "6. Pathacks : Fundamentals of Object-Oriented Programming & Modules",
     "descS": "Master OOP in Python: objects, instance methods, attributes, and more.",
     "link": "https://app.datacamp.com/learn/tutorials/python-oop-tutorial"
   },
   "1037": {
     "titleS": "Python Modules Tutorial: Importing, Writing, and Using Them",
-    "categoryS": "Pathacks : Fundamentals of Object-Oriented Programming & Modules",
+    "categoryS": "6. Pathacks : Fundamentals of Object-Oriented Programming & Modules",
     "descS": "Create and use Python modules for code organization and reusability.",
     "link": "https://app.datacamp.com/learn/tutorials/modules-in-python"
   },
   "1038": {
     "titleS": "Basic Standard Library Modules (math, datetime, os, etc.)",
-    "categoryS": "Pathacks : Fundamentals of Object-Oriented Programming & Modules",
+    "categoryS": "6. Pathacks : Fundamentals of Object-Oriented Programming & Modules",
     "descS": "Quick introduction to Python's standard libraries for everyday coding.",
     "link": "https://app.datacamp.com/learn/tutorials/python-standard-library"
   },
@@ -285,13 +285,13 @@
 
   "1039": {
     "titleS": "How to Use Pytest for Unit Testing",
-    "categoryS": "Pathacks : Testing & Code Quality",
+    "categoryS": "7. Pathacks : Testing & Code Quality",
     "descS": "Explore what Pytest is and what it's used for while comparing it to other software testing methods.",
     "link": "https://app.datacamp.com/learn/tutorials/pytest-tutorial-a-hands-on-guide-to-unit-testing"
   },
   "1040": {
     "titleS": "Code Linting & Style (PEP 8 standards)",
-    "categoryS": "Pathacks : Testing & Code Quality",
+    "categoryS": "7. Pathacks : Testing & Code Quality",
     "descS": "Start formatting your code correctly with PEP 8 for maximum readability.",
     "link": "https://app.datacamp.com/learn/tutorials/pep8-tutorial-python-code"
   },
@@ -305,26 +305,26 @@
 
   "1041": {
     "titleS": "Data Visualization with Matplotlib, Seaborn",
-    "categoryS": "Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
+    "categoryS": "8. Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
     "descS": "Visualize data in Python for analysis and reporting.",
     "link": "https://app.datacamp.com/learn/tutorials/matplotlib-tutorial-python",
     "link2": "https://app.datacamp.com/learn/tutorials/seaborn-python-tutorial"
   },
   "1042": {
     "titleS": "Basic Web Development with Flask or Streamlit",
-    "categoryS": "Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
+    "categoryS": "8. Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
     "descS": "Learn to build web applications with minimal setup.",
     "link": "https://app.datacamp.com/learn/tutorials/streamlit"
   },
   "1043": {
     "titleS": "Data Science & Machine Learning Foundations",
-    "categoryS": "Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
+    "categoryS": "8. Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
     "descS": "Get started on ML and data science workflows with Python.",
     "link": "https://app.datacamp.com/learn/tutorials/machine-learning-python"
   },
   "1044": {
     "titleS": "Web API Development & HTTP Requests",
-    "categoryS": "Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
+    "categoryS": "8. Pathacks : Advanced & Application-Specific Skills (Optional/Next Steps)",
     "descS": "Advanced guide to creating and using APIs with Python.",
     "link": "https://app.datacamp.com/learn/tutorials/introduction-fastapi-tutorial"
   }
